@@ -3,7 +3,7 @@ layout: page
 title: Guoming Tang
 subtitle: Ph.D., Associate Professor
 subtitle2: National University of Defense Technology
-img: /img/guomingtang.jpeg
+img: /img/guomingtang.png
 social_media: true
 ---
 

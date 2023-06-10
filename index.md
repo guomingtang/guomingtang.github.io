@@ -3,7 +3,7 @@ layout: page
 title: Guoming Tang
 subtitle: Associate Professor, National University of Defense Technology
 #subtitle2: Incoming Faculty Member, TBD
-img: /img/guomingtang.jpg
+img: /img/profile_gmtang.jpeg
 social_media: true
 ---
 

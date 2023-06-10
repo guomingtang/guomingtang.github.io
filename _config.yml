@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://priyald17.github.io"
+url: "http://guomingtang.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,20 +14,19 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Priya L. Donti
+title: Guoming Tang
 
 # Short description of your site
-description: Priya L. Donti, Ph.D. Student in Computer Science and Public Policy, Carnegie Mellon University
-
+description: Guoming Tang's Homepage
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
   Publications: "publications"
-  Climate Change AI: "https://www.climatechange.ai/"
-  Misc: "misc"
-  CV: "files/dontiCV.pdf"
-  Bio: "bio"
+  Teaching: "teaching"
+  Services: "services"
+  Group: "group"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
@@ -58,12 +57,12 @@ navbar-col: "light gray"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Priya L. Donti
-  email: "donti@mit.edu"
-  github: priyald17
-  twitter: priyald17
-  linkedin: priya-donti
-  googlescholar: PfRSkfEAAAAJ
+  name: Guoming Tang
+  email: "tangguo1999@gmail.com"
+  github: guomingtang
+  #twitter: priyald17
+  linkedin: guomingtang
+  googlescholar: 8key_ToAAAAJ
   # cv: files/dontiCV.pdf
 
 # Select which links to show in the footer
@@ -98,15 +97,14 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "priyadonti.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "guomingtang.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-# google_analytics: "UA-122150802-1"
-google_analytics: "G-043JM57Z8Y"
+google_analytics: "G-5PWWRZX4NW"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -125,7 +123,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/New_York"
+timezone: "Asia/Shanghai"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

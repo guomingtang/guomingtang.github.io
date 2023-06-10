@@ -1,25 +1,18 @@
 ---
 layout: page
-title: Priya L. Donti
-subtitle: Co-founder and Executive Director, Climate Change AI
-subtitle2: Incoming Assistant Professor, MIT EECS
-img: /img/priyadonti.jpg
+title: Guoming Tang
+subtitle: Associate Professor, National University of Defense Technology
+#subtitle2: Incoming Faculty Member, TBD
+img: /img/guomingtang.jpg
 social_media: true
 ---
 
-Hello! I am the co-founder and Executive Director of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> (CCAI), a global nonprofit initiative to catalyze impactful work at the intersection of climate change and machine learning. I am currently running CCAI through the <a href="https://tech.cornell.edu/programs/phd/startup-postdocs/">Runway Startup Postdoc Program</a> at Cornell Tech and the Jacobs Institute. I will also join <a href="https://www.eecs.mit.edu/" target="_blank">MIT EECS</a> as an Assistant Professor in Fall 2023.
+I am currently an Associate Professor College of Systems Engineering, National University of Defense Technology. I received the Ph.D. degree in Computer Science from the <a href="https://www.uvic.ca/" target="_blank">University of Victoria</a>, Canada, and both the Bachelor's and Master's degrees from the National University of Defense Technology, China. I was also a visiting research scholar of the <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>, Canada.
 
-My research focuses on machine learning for forecasting, optimization, and control in high-renewables power grids.
-Specifically, my work explores methods to incorporate the physics and hard constraints associated with electric power systems into deep learning workflows.
-Please see [here](/publications) for a list of my recent publications.
+Aided by the data science and AI techniques, his research mainly focuses on computational sustainability issues in computing/networking systems, broadly covering (i) energy-efficient power management in datacenters, (ii) load modeling and monitoring of smart energy systems, and (iii) content delivery & resource provisioning of cloud/edge computing systems. He is also interested in the intelligent transportation systems (ITS), especially those are data-driven or AI-enabled.
 
-I am a recipient of the MIT Technology Review's 2021 <a href="https://www.technologyreview.com/innovators-under-35/2021/" target="_blank">"35 Innovators Under 35"</a> award and of the 2022 ACM SIGEnergy Doctoral Dissertation Award.
-I was previously a U.S. Department of Energy Computational Science Graduate Fellow, a Siebel Scholar,
-an NSF Graduate Research Fellow, and a Thomas J. Watson Fellow.
-I received my Ph.D. from the <a href="https://www.cs.cmu.edu/" target="_blank">Computer Science Department</a>
-and the <a href="https://www.cmu.edu/epp/" target="_blank">Department of Engineering & Public Policy</a>
-at Carnegie Mellon University, co-advised by 
-<a href="http://zicokolter.com/" target="_blank">Zico Kolter</a>
-and
-<a href="https://ines.stanford.edu/" target="_blank">In&#234;s Azevedo</a>.
-I did my undergraduate degree at Harvey Mudd College, with a major in computer science and math as well as an emphasis in environmental analysis.
+For more research interests, please refer to my [publications](/publications).
+
+### Recent News
+- May. 2023: One paper got accepted to ICDCS'23.
+- Apr. 2023: One paper got accepted to ACM TIOT.

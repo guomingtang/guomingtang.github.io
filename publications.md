@@ -13,7 +13,10 @@ _# denotes co-first author_ | _* denotes corresponding author_
  Guoming Tang, Deke Guo, Kui Wu \\
  _Springer, 2022. ISBN: 978-981-16-9689-3_
 
-### 2023
+### Journals and Conferences/Workshops
+
+#### 2023
+
 * __Two-Stage Coded Distributed Learning: A Dynamic Partial Gradient Coding Perspective__ \\
 Xinghan Wang, Xiaoxiong Zhong, Jiahong Ning, Tingting Yang, Yuanyuan Yang, Guoming Tang, Fangming Liu \\
 _IEEE International Conference on Distributed Computing Systems (ICDCS'23)_
@@ -25,3 +28,4 @@ _IEEE Transactions on Green Communications and Networking (TGCN), Vol. 7, No. 2,
 * __HyEdge: A Cooperative Edge Computing Framework for Provisioning Private and Public Services"__ \\
 Siyuan Gu, Deke Guo, Guoming Tang, Lailong Luo, Yuchen Sun, Xueshan Luo \\
 _ACM Transactions on Internet of Things (TIOT), 2023. https://doi.org/10.1145/3585078_
+

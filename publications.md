@@ -4,7 +4,7 @@ title: Publications - Guoming Tang
 ---
 
 ## Publications 
-[Google Scholar](https://scholar.google.com/citations?user=8key_ToAAAAJ&hl=en){:target="_blank"}
+<a href="https://scholar.google.com/citations?user=8key_ToAAAAJ&hl=en" target="_blank">[Google Scholar]</a>
 <br>
 _# denotes co-first author_ | _* denotes corresponding author_
 

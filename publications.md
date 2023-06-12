@@ -8,7 +8,7 @@ title: Publications - Guoming Tang
 <br>
 _# denotes co-first author_ | _* denotes corresponding author_
 
-### Books
+### Books/Chapters
  * __GreenEdge: New Perspectives to Energy Management and Supply in Mobile Edge Computing__ \\
  Guoming Tang, Deke Guo, Kui Wu \\
  _Springer, 2022. ISBN: 978-981-16-9689-3_

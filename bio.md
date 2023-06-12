@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Bio - Priya L. Donti
+title: Bio - Guoming Tang
 ---
 
 ## Bio
 
-Priya Donti is the Co-founder and Executive Director of Climate Change AI, a global non-profit initiative to catalyze impactful work at the intersection of climate change and machine learning, which she is currently running through the Cornell Tech Runway Startup Postdoc Program. She will also join MIT EECS as an Assistant Professor in Fall 2023. Her research focuses on machine learning for forecasting, optimization, and control in high-renewables power grids. Specifically, her work explores methods to incorporate the physics and hard constraints associated with electric power systems into deep learning workflows. Priya received her Ph.D. in Computer Science and Public Policy from Carnegie Mellon University, and is a recipient of the MIT Technology Review’s 2021 “35 Innovators Under 35” award, the ACM SIGEnergy Doctoral Dissertation Award, the Siebel Scholarship, the U.S. Department of Energy Computational Science Graduate Fellowship, and best paper awards at ICML (honorable mention), ACM e-Energy (runner-up), PECI, the Duke Energy Data Analytics Symposium, and the NeurIPS workshop on AI for Social Good.
+Guoming Tang is currently an Associate Professor at the National University of Defense Technology, Changsha, Hunan, China. He received the Ph.D. degree in Computer Science from University of Victoria, and the Bachelor's and Master's degrees from National University of Defense Technology. From 2019 to 2021, he worked as a postdoctoral researcher at the Peng Cheng National Laboratory and University of Cambridge, respectively. He was also a visiting research scholar at the University of Waterloo in 2016. His research mainly focuses on green/sustainable computing and cloud-edge computing.
 
-<a href="/img/priyadonti.jpg" download>Download headshot</a>
+<a href="/img/guomingtang.jpeg" target="_blank">[Bio Photo]</a>

@@ -49,6 +49,7 @@ navbar-links:
 navbar-col: "#AED6F1" #light blue
 # navbar-img: "/img/bgimage.png"
 # footer-col: "blue"
+footer-col: "#AED6F1"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"

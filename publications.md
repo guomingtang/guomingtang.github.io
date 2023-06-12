@@ -28,7 +28,7 @@ Siyuan Gu, Deke Guo, Guoming Tang, Lailong Luo, Yuchen Sun, Xueshan Luo \\
 
 ### 2022
 
-- **Conferences/Workshops**
+**&gr;Conferences/Workshops**
 
 - **Versatility-Performance Balanced Hardware Architecture for Scene Text Detection** \\
 Yao Xin, Guoming Tang, Donglong Chen, Rumin Zhang, Teng Liang, Ray C. C. Cheung \\
@@ -46,6 +46,7 @@ Yu Zhang, Guoming Tang*, Qianyi Huang, Kui Wu, Yangjing Wu,Yi Wang \\
 Yu Zhang, Guoming Tang*, Qianyi Huang, Kui Wu, Yangjing Wu,Yi Wang \\
 *ACM International Conference on Future Energy Systems (e-Energy), 2022.*
 
-- **Journals**
+**&gr;Journals**
 
 - (More to be added soon)
+

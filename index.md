@@ -13,6 +13,9 @@ Aided by the data science and AI techniques, my research mainly focuses on <a hr
 
 For more research interests, please refer to my [publications](/publications).
 
-### Recent News
+### News
+
+- Jun. 2023: One paper got accepted to IEEE IOT-J.
 - May. 2023: One paper got accepted to ICDCS'23.
-- Apr. 2023: One paper got accepted to ACM TIOT.
+- May. 2023: "FedNILM" was published by IEEE TGCN.
+- Apr. 2023: "HyEdge" got accepted to ACM TIOT.

@@ -40,7 +40,7 @@ _ACM Transactions on Internet of Things (TIOT), 2023. https://doi.org/10.1145/35
 
 ### 2022
 
-**Conferences**
+  **Conferences**
 
 - **Versatility-Performance Balanced Hardware Architecture for Scene Text Detection** \\
 Yao Xin, Guoming Tang, Donglong Chen, Rumin Zhang, Teng Liang, Ray C. C. Cheung \\
@@ -58,7 +58,7 @@ _IEEE International Conference on Cyber Physical and Social Computing (CPSCom), 
 Xudong Wang, Guoming Tang*, Yi Wang, S. Keshav, Yu Zhang \\
 _ACM International Conference on Future Energy Systems (e-Energy), Oldenburg, Germany, Jun. 2022._
 
-**Journals**
+  **Journals**
 
 - **FPGA-based Updatable Packet Classification using TSS-combined Bit-selecting Tree** \\
 Yao Xin, Wenjun Li, Guoming Tang, Tong Yang, Xiaohe Hu, Yi Wang \\

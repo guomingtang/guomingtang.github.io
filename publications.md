@@ -25,6 +25,10 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ### 2023
 
+- **Behavioral-Semantic Privacy Protection for Continual Social Mobility in Mobile-Internet Services** \\
+Guoying Qiu, Guoming Tang, Chuandong Li, Deke Guo, Yulong Shen, Yan Gan \\
+_Accepted to IEEE Internet of Things Journal (IoT-J), Jun. 2023._
+
 - **Two-Stage Coded Distributed Learning: A Dynamic Partial Gradient Coding Perspective** \\
 Xinghan Wang, Xiaoxiong Zhong, Jiahong Ning, Tingting Yang, Yuanyuan Yang, Guoming Tang, Fangming Liu \\
 _IEEE International Conference on Distributed Computing Systems (ICDCS), Hong Kong, China, Jul. 2023._
@@ -39,7 +43,7 @@ _ACM Transactions on Internet of Things (TIOT), 2023. https://doi.org/10.1145/35
 
 ### 2022
 
-**&gt;Conferences**
+**&gt; Conferences**
 
 - **Versatility-Performance Balanced Hardware Architecture for Scene Text Detection** \\
 Yao Xin, Guoming Tang, Donglong Chen, Rumin Zhang, Teng Liang, Ray C. C. Cheung \\
@@ -57,7 +61,7 @@ _IEEE International Conference on Cyber Physical and Social Computing (CPSCom), 
 Xudong Wang, Guoming Tang*, Yi Wang, S. Keshav, Yu Zhang \\
 _ACM International Conference on Future Energy Systems (e-Energy), Oldenburg, Germany, Jun. 2022._
 
-**&gt;Journals**
+**&gt; Journals**
 
 - **FPGA-based Updatable Packet Classification using TSS-combined Bit-selecting Tree** \\
 Yao Xin, Wenjun Li, Guoming Tang, Tong Yang, Xiaohe Hu, Yi Wang \\
@@ -97,7 +101,7 @@ _ACM/IEEE Transactions on Networking (TON), Vol. 30, No. 1, pp. 120-133, 2022._
 
 ### 2021
 
-**Conferences**
+**C&gt; onferences**
 
 - **Personalized QoE Optimization With Edge-Aided Video Enhancement Services** \\
 Hanlong Liao, Guoming Tang*, Teng Liang, Longguang Wang, Deke Guo \\
@@ -115,7 +119,7 @@ _IEEE International Conference on Distributed Computing Systems (ICDCS), Virtual
 Guoming Tang, Hao Yuan, Deke Guo, Kui Wu, Yi Wang \\
 _International Conference on Computer Communications (INFOCOM), Virtual Conference, May. 2021._
 
-**Journals**
+**&gt; Journals**
 
 - **Towards Net-Zero Base Stations with Integrated and Flexible Power Supply in Future Networks** \\
 Hao Yuan#, Guoming Tang#, Teng Liang, Deke Guo, Yi Wang \\
@@ -144,7 +148,7 @@ _IEEE Transactions on Intelligent Transportation Systems (TITS), Vol. 22, No. 10
 
 ### 2020
 
-**Conferences**
+**&gt; Conferences**
 
 - **AI-Aided Game: Enhancing Defense Performance of Scale-Free Network via Deep Reinforcement Learning** \\
 Ziyue Lu, Guoming Tang*, Baochao Chen, Bangbang Ren, Sheng Chen, Deke Guo \\
@@ -166,7 +170,7 @@ _IFIP Networking Conference, Poster Paper, June, 2020._
 Huan Wang, Kui Wu, Jianping Wang, Guoming Tang \\
 _IEEE International Conference on Computer Communications (INFOCOM), Virtual Conference, 2020._
 
-**Journals**
+**&gt; Journals**
 
 - **Joint Optimization of VNF Placement and Flow Scheduling in Mobile Core Network** \\
 Bangbang Ren, Siyuan Gu, Deke Guo, Guoming Tang, Xu lin \\
@@ -190,7 +194,7 @@ _Information Science, Vol. 506, pp. 258-272, 2020._
 
 ### **Before 2020**
 
-**Conferences**
+**&gt; Conferences**
 
 - **DAG-SFC: Minimize the Embedding Cost of SFC with Parallel VNFs** \\
 Xu Lin, Deke Guo, Yulong Shen, Guoming Tang, Bangbang Ren \\
@@ -249,7 +253,7 @@ Guoming Tang, Kui Wu, Jingsheng Lei \\
 _International Workshop on Non-Intrusive Load Monitoring (NILM), Austin, TX, USA, Jun. 2014._
 
 
-**Journals**
+**&gt; Journals**
 
 - **A Survey on Edge Computing Systems and Tools** \\
 Fang Liu, Guoming Tang, Youhuizi Li, Zhiping Cai, Xingzhou Zhang, Tongqing Zhou \\
@@ -306,6 +310,6 @@ _IEEE Transactions on Smart Grid (TSG), Vol. 5, No. 4, pp. 1764-1773, 2014._
 ### **PhD Dissertation**
 
 - **Data-driven Approaches to Load Modeling and Monitoring in Smart Energy Systems** \\
-Guoming Tang, Jan. 2017. \\
+Guoming Tang, University of Victoria, BC, Canada, Jan. 2017. \\
 _Governor General's Gold Medal Nomination by CS Dept. of University of Victoria_
 

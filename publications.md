@@ -6,7 +6,7 @@ title: Publications - Guoming Tang
 ## Publications 
 
 <a href="https://scholar.google.com/citations?user=8key_ToAAAAJ&hl=en" target="_blank">Google Scholar</a> &#124; <a href="https://dblp.org/pid/15/9707.html" target="_blank">DBLP</a>  
-_(# denotes co-first author and * denotes corresponding author.)_
+_# denotes co-first author and * denotes corresponding author._
 
 ### Books/Chapters
 
@@ -39,7 +39,7 @@ _ACM Transactions on Internet of Things (TIOT), 2023. https://doi.org/10.1145/35
 
 ### 2022
 
-  **Conferences**
+**&gt;Conferences**
 
 - **Versatility-Performance Balanced Hardware Architecture for Scene Text Detection** \\
 Yao Xin, Guoming Tang, Donglong Chen, Rumin Zhang, Teng Liang, Ray C. C. Cheung \\
@@ -57,7 +57,7 @@ _IEEE International Conference on Cyber Physical and Social Computing (CPSCom), 
 Xudong Wang, Guoming Tang*, Yi Wang, S. Keshav, Yu Zhang \\
 _ACM International Conference on Future Energy Systems (e-Energy), Oldenburg, Germany, Jun. 2022._
 
-  **Journals**
+**&gt;Journals**
 
 - **FPGA-based Updatable Packet Classification using TSS-combined Bit-selecting Tree** \\
 Yao Xin, Wenjun Li, Guoming Tang, Tong Yang, Xiaohe Hu, Yi Wang \\

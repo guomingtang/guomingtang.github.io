@@ -7,10 +7,10 @@ title: Services - Guoming Tang
 
 ### Organizing Committee Members
 
-- **PC Co-chair**: International Workshop on Computer Science Education (IWCSE), 2018
-- **Local Arrangement Chair**: EAI International Conference on 5G for Future Wireless Networks (5GWN), 2019
-- **Publication Chair**: EAI International Conference on Mobile Networks and Management (MONAMI), 2020
-- **Session Chair**: HPCC 2020, UIC 2022
+- PC Co-chair: International Workshop on Computer Science Education (IWCSE), 2018
+- Local Arrangement Chair: EAI International Conference on 5G for Future Wireless Networks (5GWN), 2019
+- Publication Chair: EAI International Conference on Mobile Networks and Management (MONAMI), 2020
+- Session Chair: HPCC 2020, UIC 2022
 
 ### Technical Committee Members
 

@@ -5,7 +5,7 @@ title: Publications - Guoming Tang
 
 ## Publications 
 
-<a href="https://scholar.google.com/citations?user=8key_ToAAAAJ&hl=en" target="_blank">[Google Scholar]</a> | <a href="https://dblp.org/pid/15/9707.html" target="_blank">DBLP</a>.
+<a href="https://scholar.google.com/citations?user=8key_ToAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://dblp.org/pid/15/9707.html" target="_blank">DBLP</a>
 
 _# denotes co-first author and * denotes corresponding author._
 

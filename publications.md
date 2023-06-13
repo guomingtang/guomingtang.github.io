@@ -5,9 +5,7 @@ title: Publications - Guoming Tang
 
 ## Publications 
 
-_# denotes co-first author_ | _* denotes corresponding author_
-
-I can also be found at <a href="https://scholar.google.com/citations?user=8key_ToAAAAJ&hl=en" target="_blank">Google Scholar</a> and <a href="https://dblp.org/pid/15/9707.html" target="_blank">DBLP</a>.
+_# denotes co-first author and * denotes corresponding author. I can also be found at <a href="https://scholar.google.com/citations?user=8key_ToAAAAJ&hl=en" target="_blank">Google Scholar</a> and <a href="https://dblp.org/pid/15/9707.html" target="_blank">DBLP</a>._
 
 ### Books/Chapters
  * __GreenEdge: New Perspectives to Energy Management and Supply in Mobile Edge Computing__ \\

@@ -7,7 +7,7 @@ title: Teaching - Guoming Tang
 
 **Lecturer**, National University of Defense Technology
 
-- *Introduction to Data Science:* (Spring 2018-2022)
+- *Introduction to Data Science:* Spring 2018-2022
 - *Machine Learning:* Fall 2018-2019
 - *Computer Network:* Fall 2020-2022
 

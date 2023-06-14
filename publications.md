@@ -20,6 +20,7 @@ _Springer, 2020. ISBN: 978-3-030-64001-9. (editor of MONAMI’20 proceeding)_
 Deke Guo, Deze Zeng, Zichuan Xu, Zhihao Qu, Xiaohui Peng, Zhi Zhou, Xingzhou Zhang, Guoming Tang, Xu Chen, Baoliu Ye \\
 _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Computer Federation proceedings, in Chinese)_
 
+---
 
 ### 2023
 

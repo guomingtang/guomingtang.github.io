@@ -26,7 +26,9 @@ navbar-links:
   Publications: "publications"
   Teaching: "teaching"
   Services: "services"
-  Group: "group"
+  # Group: "group"
+  Misc: "misc"
+
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"

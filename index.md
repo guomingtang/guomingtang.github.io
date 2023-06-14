@@ -13,7 +13,7 @@ social_media: true
 
 <!--- For more research interests, please refer to my [publications](/publications).-->
 
-### News
+### <img src="../img/news.png" height="50px"> News
 
 - Jun. 2023: One paper got accepted to IEEE IoT-J.
 - May. 2023: One paper got accepted to ICDCS'23.

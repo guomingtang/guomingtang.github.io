@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Services - Guoming Tang
+title: Service - Guoming Tang
 ---
 
-## Professional Services
+## Professional Service
 
 **Organizing Committee Members**
 

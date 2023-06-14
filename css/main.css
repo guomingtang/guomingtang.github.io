@@ -575,7 +575,7 @@ footer .theme-by {
   }
   .intro-header.big-img {
     width: 100%;
-    height: 180px; /* 220px; gt*/
+    height: 100px; /* 220px; gt*/
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {

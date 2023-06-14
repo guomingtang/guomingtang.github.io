@@ -20,5 +20,5 @@ title: Teaching - Guoming Tang
 **Teaching Awards**
 
 - Excellent Teaching Award, College of Systems Engineering, NUDT, 2019
-- Second prize for teaching achievements (team award), College of Systems Engineering, NUDT, 2019
+- The second prize for teaching achievements (team award), College of Systems Engineering, NUDT, 2019
 - *Introduction to Data Science* won the outstanding course of China University Computer Education MOOC Alliance, 2020

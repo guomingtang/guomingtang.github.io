@@ -15,7 +15,7 @@ For more research interests, please refer to my [publications](/publications).
 
 ### News
 
-- Jun. 2023: One paper got accepted to IEEE IOT-J.
+- Jun. 2023: One paper got accepted to IEEE IoT-J.
 - May. 2023: One paper got accepted to ICDCS'23.
 - May. 2023: "FedNILM" was published by IEEE TGCN.
 - Apr. 2023: "HyEdge" got accepted to ACM TIOT.

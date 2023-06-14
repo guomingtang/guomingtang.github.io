@@ -3,7 +3,7 @@ layout: default
 title: Misc - Guoming Tang
 ---
 
-## Useful Knowledge
+### Useful Knowledge
 
 - Some quotes I like:
   - For daily: _"Embrace the highs, maintain the pace; face the lows, persevere with grace." (Unknown author)_ 

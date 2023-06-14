@@ -548,10 +548,10 @@ footer .theme-by {
   }
   /* --- Title --- */
   .intro-header .page-heading h1 {
-    font-size: 35px;
+    font-size: 25px; /* 35pt */
   }
   .intro-header .post-heading h1 {
-    font-size: 50px;
+    font-size: 35px; /* 50pt */
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;

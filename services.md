@@ -14,7 +14,7 @@ title: Services - Guoming Tang
 
 **Technical Committee Members**
 
-- International Conference on Mobility, Sensing and Networking (MSN), 2022
+- International Conference on Mobility, Sensing and Networking (MSN), 2023
 - International Conference on Parallel and Distributed Systems (ICPADS), 2021-2023
 - International Conference on Mobile Networks and Management (MONAMI), 2020-2021
 - International Conference on Wireless Algorithms, Systems, and Applications (WASA), 2018-2022
@@ -24,5 +24,5 @@ title: Services - Guoming Tang
 
 **Invited Reviewers**
 
- - Journals: JSAC, TON, TPDS, TITS, TSC, TNSE, TSG, TII, Applied Energy, COMNET, etc.
- - Conferences: IWQoS 2021-2022, WASA 2019-2022, ICPADS 2021-2023, HPCC 2021-2022, MoWNet 2017-2018, SmartGridComm 2014-2017, etc.
+- Journals: JSAC, TON, TPDS, TITS, TSC, TNSE, TSG, TII, Applied Energy, COMNET, etc.
+- Conferences: IWQoS 2021-2022, WASA 2019-2022, ICPADS 2021-2023, HPCC 2021-2022, MoWNet 2017-2018, SmartGridComm 2014-2017, etc.

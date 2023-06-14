@@ -3,7 +3,7 @@ layout: default
 title: Teaching - Guoming Tang
 ---
 
-## Teaching Experiences
+## Teaching Experience
 
 **Lecturer**, National University of Defense Technology
 

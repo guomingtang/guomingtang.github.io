@@ -23,9 +23,9 @@ description: Guoming Tang's Homepage
 # List of links in the navigation bar
 navbar-links:
   About: "about"
-  Publications: "publications"
+  Publication: "publications"
   Teaching: "teaching"
-  Services: "services"
+  Service: "services"
   # Group: "group"
   Misc: "misc"
 

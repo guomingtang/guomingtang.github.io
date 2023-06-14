@@ -19,4 +19,4 @@ Guoming Tang is currently an Associate Professor at the National University of D
 - Selected Participant of the [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/) (one of 200 young researchers from a highly competitive worldwide selection), 2016
 - Jarmila Thouvenelle and Dr. Esme Foord Scholarships, UVic, 2015-2016
 - Mitacs Globalink Research Award, Mitacs Canada, 2014
-- Outstanding Graduate (top 2\%), National University of Defense Technology, 2010
+- Outstanding Graduate (top 2%), National University of Defense Technology, 2010

@@ -22,7 +22,7 @@ description: Guoming Tang's Homepage
 
 # List of links in the navigation bar
 navbar-links:
-  Bio: "bio"
+  About: "about"
   Publications: "publications"
   Teaching: "teaching"
   Services: "services"

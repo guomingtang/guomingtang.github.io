@@ -101,7 +101,7 @@ _ACM/IEEE Transactions on Networking (TON), Vol. 30, No. 1, pp. 120-133, 2022._
 
 ### 2021
 
-**C&gt; onferences**
+**&gt; Conferences**
 
 - **Personalized QoE Optimization With Edge-Aided Video Enhancement Services** \\
 Hanlong Liao, Guoming Tang*, Teng Liang, Longguang Wang, Deke Guo \\

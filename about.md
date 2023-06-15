@@ -19,3 +19,9 @@ Guoming Tang is currently an Associate Professor at the National University of D
 - Jarmila Thouvenelle and Dr. Esme Foord Scholarships, UVic, 2015-2016
 - Mitacs Globalink Research Award, Mitacs Canada, 2014
 - Outstanding Graduate (top 2%), National University of Defense Technology, 2010
+
+### Contact
+
+```
+Email: tangguo1999[at]gmail.com
+```

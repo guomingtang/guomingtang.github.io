@@ -60,11 +60,11 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Guoming Tang
-  email: "tangguo1999@gmail.com"
-  github: guomingtang
-  #twitter: priyald17
-  linkedin: guomingtang
-  googlescholar: 8key_ToAAAAJ
+  # email: "tangguo1999@gmail.com"
+  # github: guomingtang
+  # twitter: priyald17
+  # linkedin: guomingtang
+  # googlescholar: 8key_ToAAAAJ
   # cv: files/dontiCV.pdf
 
 # Select which links to show in the footer

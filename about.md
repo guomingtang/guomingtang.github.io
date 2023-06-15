@@ -20,7 +20,7 @@ Guoming Tang is currently an Associate Professor at the National University of D
 - Mitacs Globalink Research Award, Mitacs Canada, 2014
 - Outstanding Graduate (top 2%), National University of Defense Technology, 2010
 
-### <img src="../img/contact.png" height="35px"> Contact
+### <img src="../img/contact.png" height="38px"> Contact
 
 ```
 tangguo1999[at]gmail[dot]com or gmtang[at]nudt[dot]edu[dot]cn

@@ -23,5 +23,5 @@ Guoming Tang is currently an Associate Professor at the National University of D
 ### Contact
 
 ```
-Email: tangguo1999[at]gmail.com
+Email: tangguo1999[at]gmail.com gmtang@nudt.edu.cn
 ```

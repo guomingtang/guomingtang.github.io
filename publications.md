@@ -24,6 +24,9 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ### 2023
 
+- **Score-VAE: Root Cause Analysis for Federated Learning-based IoT Anomaly Detection** \\
+Jiamin Fan, Guoming Tang, Kui Wu, Zhengan Zhao, Yang Zhou, Shengqiang Huang \\
+_Accepted to IEEE Internet of Things Journal (IoT-J), Jun. 2023._
 - **Behavioral-Semantic Privacy Protection for Continual Social Mobility in Mobile-Internet Services** \\
 Guoying Qiu, Guoming Tang, Chuandong Li, Deke Guo, Yulong Shen, Yan Gan \\
 _Accepted to IEEE Internet of Things Journal (IoT-J), Jun. 2023._

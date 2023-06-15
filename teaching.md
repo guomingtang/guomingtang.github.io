@@ -3,7 +3,7 @@ layout: default
 title: Teaching - Guoming Tang
 ---
 
-### <img src="../img/teaching.png" height="40px"> Teaching Experience
+### <img src="../img/teaching.png" height="50px"> Teaching Experience
 
 **Lecturer**, National University of Defense Technology
 

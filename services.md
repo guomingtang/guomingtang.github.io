@@ -3,7 +3,7 @@ layout: default
 title: Service - Guoming Tang
 ---
 
-### <img src="../img/service.png" height="40px"> Professional Service
+### <img src="../img/service.png" height="50px"> Professional Service
 
 **Organizing Committee Members**
 

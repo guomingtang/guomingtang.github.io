@@ -7,9 +7,9 @@ img: /img/guomingtang.jpeg
 social_media: true
 ---
 
-<!--- I am currently an Associate Professor College of Systems Engineering, National University of Defense Technology. I received the Ph.D. degree in Computer Science from the <a href="https://www.uvic.ca/" target="_blank">University of Victoria</a>, Canada, and both the Bachelor's and Master's degrees from the National University of Defense Technology, China. I was also a visiting research scholar of the <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>, Canada. -->
+Hi there! Welcome to my homepage. I am an Associate Professor in the College of Systems Engineering at National University of Defense Technology, Changsha, Hunan, China.
 
-**Research Interests:** Aided by the data science and AI techniques, my research mainly focuses on dealing with <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a> problems in computing and networking systems. Some ongoing projects include (i) energy-efficient power management in datacenters, (ii) load modeling and monitoring of smart energy systems, and (iii) resource management of cloud/edge computing systems. I am also interested in the intelligent transportation systems, especially those are data-driven and/or AI-enabled.
+Aided by the data science and AI techniques, my research mainly focuses on dealing with <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a> problems in computing and networking systems. Some ongoing projects include (i) energy-efficient power management in datacenters, (ii) load modeling and monitoring of smart energy systems, and (iii) resource management of cloud/edge computing systems. I am also interested in the intelligent transportation systems, especially those are data-driven and/or AI-enabled.
 
 <!--- For more research interests, please refer to my [publications](/publications).-->
 

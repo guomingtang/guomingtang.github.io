@@ -13,7 +13,7 @@ Guoming Tang is currently an Associate Professor at the National University of D
 
 - Outstanding Paper Award, IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), 2022
 - Distinguished Innovation Research Award, Tencent, 2021
-- International Exchange Program of Postdoctoral Research, 2020-2021
+- International Exchange Program of Postdoctoral Research (University of Cambridge), 2020-2021
 - Natural Science Foundation of Hunan Provincial for Excellent Youth, 2019-2021
 - Governor General’s Gold Medal Nomination (PhD Dissertation), UVic CS Dept., 2018
 - Selected Participant of the [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/) (one of 200 young researchers from a competitive worldwide selection), 2016

@@ -108,7 +108,7 @@ _International Conference on Computer Communications (INFOCOM), Virtual Conferen
 
 - **Towards Net-Zero Base Stations with Integrated and Flexible Power Supply in Future Networks** \\
 Hao Yuan#, Guoming Tang#, Teng Liang, Deke Guo, Yi Wang \\
-_International Conference on Computer Communications (INFOCOM), Virtual Conference, May. 2021._
+_IEEE Network, Vol. 35, No. 6, pp. 50-56, 2021._
 - **Online Dispatching and Fair Scheduling of Edge Computing Tasks: a Learning-based Approach** \\
 Hao Yuan, Guoming Tang*, Xinyi Li, Deke Guo, Lailong Luo, Xueshan Luo \\
 _IEEE Internet of Things Journal (IoT-J), Vol. 8, No. 19, pp. 14985-14998, 2021._

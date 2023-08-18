@@ -24,6 +24,9 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ### 2023
 
+- **SFT-Box: an Online Approach for Minimizing the Embedding Cost of Multiple Hybrid SFCs** \\
+Xu Lin, Deke Guo, Yulong Shen, Guoming Tang, Bangbang Ren, Ming Xu \\
+_IEEE/ACM Transactions on Networking (TON), Vol. 31, No. 4, pp. 1463-1477, 2023._
 - **Score-VAE: Root Cause Analysis for Federated Learning-based IoT Anomaly Detection** \\
 Jiamin Fan, Guoming Tang, Kui Wu, Zhengan Zhao, Yang Zhou, Shengqiang Huang \\
 _Accepted to IEEE Internet of Things Journal (IoT-J), Jun. 2023._
@@ -62,9 +65,6 @@ _ACM International Conference on Future Energy Systems (e-Energy), Oldenburg, Ge
 - **FPGA-based Updatable Packet Classification using TSS-combined Bit-selecting Tree** \\
 Yao Xin, Wenjun Li, Guoming Tang, Tong Yang, Xiaohe Hu, Yi Wang \\
 _ACM/IEEE Transactions on Networking (TON), Vol. 30, No. 6, pp. 2760-2775, 2022._
-- **SFT-Box: an Online Approach for Minimizing the Embedding Cost of Multiple Hybrid SFCs** \\
-Xu Lin, Deke Guo, Yulong Shen, Guoming Tang, Bangbang Ren, Ming Xu \\
-_IEEE/ACM Transactions on Networking (TON), 2022. DOI: 10.1109/TNET.2022.3221868._
 - **Learning Based Energy Efficient Task Offloading for Vehicular Collaborative Edge Computing** \\
 Peng Qin, Yang Fu, Guoming Tang*, Xiongwen Zhao, Suiyan Geng \\
 _IEEE Transactions on Vehicular Technology (TVT), Vol. 71, No. 8, pp. 8398-8413, 2022._

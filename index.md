@@ -15,7 +15,7 @@ For more about my research, please refer to the [publications](/publications).
 
 ### <img src="../img/news.png" height="40px"> News
 
-- Aug. 2023: One survey paper got accpeted to ACM Computing Surveys <a href="https://dl.acm.org/doi/epdf/10.1145/3617589" target="_blank">(LINK)</a>.
+- Aug. 2023: <a href="https://dl.acm.org/doi/epdf/10.1145/3617589" target="_blank">One survey paper</a> got accpeted to ACM Computing Surveys.
 - Aug. 2023: Three papers got accepted to IEEE IoT-J.
 - May. 2023: One paper got accepted to ICDCS'23.
 - May. 2023: _FedNILM_ was published by IEEE TGCN.

@@ -24,6 +24,9 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ### 2023
 
+- **Differentiated Location Privacy Protection in Mobile Communication Services: A Survey from the Semantic Perception Perspective** <a href="https://dl.acm.org/doi/epdf/10.1145/3617589" target="_blank">[PDF]</a> \\
+Guoying Qiu, Guoming Tang, Chuandong Li, Lailong Luo, Deke Guo, Yulong Shen \\
+_ACM Computing Surveys (CSUR), Aug. 2023. DOI:10.1145/3617589_
 - **A Complete and Comprehensive Semantic Perception of Mobile Travelling for Mobile Communication Services** \\
 Guoying Qiu, Guoming Tang, Chuandong Li, Lailong Luo, Deke Guo, Yulong Shen \\
 _IEEE Internet of Things Journal (IoT-J), Aug. 2023. DOI:10.1109/JIOT.2023.3307478._

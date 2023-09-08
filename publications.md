@@ -26,7 +26,7 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 - **Differentiated Location Privacy Protection in Mobile Communication Services: A Survey from the Semantic Perception Perspective** <a href="https://dl.acm.org/doi/epdf/10.1145/3617589" target="_blank">[PDF]</a> \\
 Guoying Qiu, Guoming Tang, Chuandong Li, Lailong Luo, Deke Guo, Yulong Shen \\
-_ACM Computing Surveys (CSUR), Aug. 2023. DOI:10.1145/3617589_
+_ACM Computing Surveys (CSUR), Aug. 2023. DOI:10.1145/3617589._
 - **A Complete and Comprehensive Semantic Perception of Mobile Travelling for Mobile Communication Services** \\
 Guoying Qiu, Guoming Tang, Chuandong Li, Lailong Luo, Deke Guo, Yulong Shen \\
 _IEEE Internet of Things Journal (IoT-J), Aug. 2023. DOI:10.1109/JIOT.2023.3307478._
@@ -44,7 +44,7 @@ Xinghan Wang, Xiaoxiong Zhong, Jiahong Ning, Tingting Yang, Yuanyuan Yang, Guomi
 _IEEE International Conference on Distributed Computing Systems (ICDCS), Hong Kong, China, Jul. 2023._
 - **FedNILM: Applying Federated Learning to Collaborative NILM Applications** \\
 Yu Zhang, Guoming Tang*, Qianyi Huang, Yi Wang, Kui Wu, Keping Yu, Xun Shao \\
-_IEEE Transactions on Green Communications and Networking (TGCN), Vol. 7, No. 2, pp. 857-868, 2023_
+_IEEE Transactions on Green Communications and Networking (TGCN), Vol. 7, No. 2, pp. 857-868, 2023._
 - **HyEdge: A Cooperative Edge Computing Framework for Provisioning Private and Public Services"** \\
 Siyuan Gu, Deke Guo, Guoming Tang, Lailong Luo, Yuchen Sun, Xueshan Luo \\
 _ACM Transactions on Internet of Things (TIOT), 2023. https://doi.org/10.1145/3585078._

@@ -38,10 +38,10 @@ Xu Lin, Deke Guo, Yulong Shen, Guoming Tang, Bangbang Ren, Ming Xu \\
 _IEEE/ACM Transactions on Networking (TON), Vol. 31, No. 4, pp. 1463-1477, 2023._
 - **Score-VAE: Root Cause Analysis for Federated Learning-based IoT Anomaly Detection** \\
 Jiamin Fan, Guoming Tang, Kui Wu, Zhengan Zhao, Yang Zhou, Shengqiang Huang \\
-_IEEE Internet of Things Journal (IoT-J), Jun. 2023. DOI: 10.1109/JIOT.2023.3289814._
+_IEEE Internet of Things Journal (IoT-J), Jun. 2023. DOI:10.1109/JIOT.2023.3289814._
 - **Behavioral-Semantic Privacy Protection for Continual Social Mobility in Mobile-Internet Services** \\
 Guoying Qiu, Guoming Tang, Chuandong Li, Deke Guo, Yulong Shen, Yan Gan \\
-_Accepted to IEEE Internet of Things Journal (IoT-J), Jun. 2023._
+_IEEE Internet of Things Journal (IoT-J), Jun. 2023. DOI:10.1109/JIOT.2023.3287644_
 - **Two-Stage Coded Distributed Learning: A Dynamic Partial Gradient Coding Perspective** \\
 Xinghan Wang, Xiaoxiong Zhong, Jiahong Ning, Tingting Yang, Yuanyuan Yang, Guoming Tang, Fangming Liu \\
 _IEEE International Conference on Distributed Computing Systems (ICDCS), Hong Kong, China, Jul. 2023._

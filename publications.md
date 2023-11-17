@@ -26,7 +26,7 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 - **Distributed BESS Scheduling for Power Demand Reshaping in 5G and Beyond Networks** \\
 Peng Qin, Guoming Tang, Yang Fu, Yi Wang \\
-_Accepted to IEEE Transactions on Green Communications and Networking (TGCN), Nov. 2023._
+_IEEE Transactions on Green Communications and Networking (TGCN), Nov. 2023. DOI:10.1109/TGCN.2023.3332494._
 - **Differentiated Location Privacy Protection in Mobile Communication Services: A Survey from the Semantic Perception Perspective** \\
 Guoying Qiu, Guoming Tang, Chuandong Li, Lailong Luo, Deke Guo, Yulong Shen \\
 _ACM Computing Surveys (CSUR), Aug. 2023. DOI:10.1145/3617589._

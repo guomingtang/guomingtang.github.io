@@ -15,7 +15,7 @@ For more about my research, please refer to the [publications](/publications).
 
 ### <img src="../img/news.png" height="40px"> News
 
-- Nov. 2023: One paper got accepted to IEEE TGCN.
+- Nov. 2023: Two papers got accepted to IEEE TGCN and IoT-J, respectively.
 - Aug. 2023: <a href="https://dl.acm.org/doi/epdf/10.1145/3617589" target="_blank">One survey paper</a> got accpeted to ACM Computing Surveys.
 - Aug. 2023: Three papers got accepted to IEEE IoT-J.
 - May. 2023: One paper got accepted to ICDCS'23.

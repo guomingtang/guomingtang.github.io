@@ -24,6 +24,9 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ### 2023
 
+- **DSG-BTra: Differentially Semantic-Generalized Behavioral Trajectory for Privacy-Preserving Mobile Internet Services** \\
+Guoying Qiu, Guoming Tang, Chuandong Li, Deke Guo, Yulong Shen, Yan Gan \\
+_Accepted to IEEE Internet of Things Journal (IoT-J), Nov. 2023._
 - **Distributed BESS Scheduling for Power Demand Reshaping in 5G and Beyond Networks** \\
 Peng Qin, Guoming Tang, Yang Fu, Yi Wang \\
 _IEEE Transactions on Green Communications and Networking (TGCN), Nov. 2023. DOI:10.1109/TGCN.2023.3332494._

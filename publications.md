@@ -24,6 +24,9 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ### 2024
 
+- **EV-Assisted Computing for Energy Cost Saving at Edge Data Centers** \\
+Hanlong Liao, Guoming Tang, Deke Guo, Kui Wu, Lailong Luo \\
+_IEEE Transactions on Mobile Computing, Jan. 2024. DOI:10.1109/TMC.2024.3358890_
 - **Why and How Lasagna Works: A New Design of Air-Ground Integrated Infrastructure** \\
 Peipei Chen, Lailong Luo, Deke Guo, Guoming Tang, Baokang Zhao, Yan Li, Xueshan Luo \\
 _IEEE Network, Jan. 2024. DOI:10.1109/MNET.2024.3350025_

@@ -186,7 +186,26 @@ _IEEE Transactions on Mobile Computing (TMC), Vol. 19, No. 11, pp. 2684-2698, 20
 Junyi Xu, Li Yao, Le Li, Ming Ji and Guoming Tang \\
 _Information Science, Vol. 506, pp. 258-272, 2020._
 
-### **Before 2020**
+
+### 2019
+
+- **A Survey on Edge Computing Systems and Tools** \\
+Fang Liu, Guoming Tang, Youhuizi Li, Zhiping Cai, Xingzhou Zhang, Tongqing Zhou \\
+_Proceedings of the IEEE (PIEEE), Vol. 107, No.8, pp. 1537-1562, 2019._
+- **Tapping the Knowledge of Dynamic Traffic Demands for Optimal CDN Design** \\
+Guoming Tang, Huan Wang, Kui Wu, and Deke Guo \\
+_ACM/IEEE Transactions on Networking (TON), Vol. 27, No. 1, pp. 98-111, 2019._
+- **Embedding Service Function Tree with Minimum Cost for NFV Enabled Multicast** \\
+Bangbang Ren, Deke Guo, Yulong Shen, Guoming Tang, Xu Lin \\
+_IEEE Journal on Selected Areas in Communications (JSAC), Vol. 37, No. 5, pp. 1085-1097, 2019._
+- **TIO: a VLC-enabled Hybrid Data Center Network Architecture** \\
+Yudong Qin, Deke Guo, Guoming Tang, Bangbang Ren \\
+_Tsinghua Science and Technology, Vol. 24, No. 4, pp.484-496, 2019._
+
+
+
+
+### **Before 2019**
 
 **&gt; Conferences**
 
@@ -236,18 +255,6 @@ _International Workshop on Non-Intrusive Load Monitoring (NILM), Austin, TX, USA
 
 **&gt; Journals**
 
-- **A Survey on Edge Computing Systems and Tools** \\
-Fang Liu, Guoming Tang, Youhuizi Li, Zhiping Cai, Xingzhou Zhang, Tongqing Zhou \\
-_Proceedings of the IEEE (PIEEE), Vol. 107, No.8, pp. 1537-1562, 2019._
-- **Tapping the Knowledge of Dynamic Traffic Demands for Optimal CDN Design** \\
-Guoming Tang, Huan Wang, Kui Wu, and Deke Guo \\
-_ACM/IEEE Transactions on Networking (TON), Vol. 27, No. 1, pp. 98-111, 2019._
-- **Embedding Service Function Tree with Minimum Cost for NFV Enabled Multicast** \\
-Bangbang Ren, Deke Guo, Yulong Shen, Guoming Tang, Xu Lin \\
-_IEEE Journal on Selected Areas in Communications (JSAC), Vol. 37, No. 5, pp. 1085-1097, 2019._
-- **TIO: a VLC-enabled Hybrid Data Center Network Architecture** \\
-Yudong Qin, Deke Guo, Guoming Tang, Bangbang Ren \\
-_Tsinghua Science and Technology, Vol. 24, No. 4, pp.484-496, 2019._
 - **Bikeshare Pool Sizing for Bike-and-ride Multimodal Transit** \\
 Guoming Tang, Srinivasan Keshav, Lukasz Golab, Kui Wu \\
 _IEEE Transactions on Intelligent Transportation Systems (TITS), Vol. 19, No. 7, pp. 2279-2289, 2018._

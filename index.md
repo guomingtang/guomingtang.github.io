@@ -16,6 +16,7 @@ For more about my research, please refer to the [publications](/publications).
 ### <img src="../img/news.png" height="40px"> News
 
 - Jan. 2024: Two papers got accepted to IEEE Network and TMC, respectively.
+- Dec. 2024: One Paper got accepted to IEEE TPDS.
 - Nov. 2023: Two papers got accepted to IEEE TGCN and IoT-J, respectively.
 - Aug. 2023: <a href="https://dl.acm.org/doi/epdf/10.1145/3617589" target="_blank">One survey paper</a> got accpeted to ACM Computing Surveys.
 - Aug. 2023: Three papers got accepted to IEEE IoT-J.

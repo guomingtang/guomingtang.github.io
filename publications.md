@@ -28,7 +28,7 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 Hanlong Liao, Guoming Tang, Deke Guo, Kui Wu, Lailong Luo \\
 _IEEE Transactions on Mobile Computing (TMC), Jan. 2024. DOI:10.1109/TMC.2024.3358890._
 - **Power Demand Reshaping Using Energy Storage for Distributed Edge Clouds** \\
-Dongyu Zheng, Lei Liu, Guoming Tang*, Yi Wang, Weichao Li \\
+Dongyu Zheng, Lei Liu, Guoming Tang, Yi Wang, Weichao Li \\
 _IEEE Transactions on Parallel and Distributed Systems (TPDS), Vol. 35, No. 2, 2024._
 - **Why and How Lasagna Works: A New Design of Air-Ground Integrated Infrastructure** \\
 Peipei Chen, Lailong Luo, Deke Guo, Guoming Tang, Baokang Zhao, Yan Li, Xueshan Luo \\

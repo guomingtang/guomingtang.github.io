@@ -25,10 +25,10 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 ### 2024
 
 - **EV-Assisted Computing for Energy Cost Saving at Edge Data Centers** \\
-Hanlong Liao, Guoming Tang, Deke Guo, Kui Wu, Lailong Luo \\
+Hanlong Liao, Guoming Tang*, Deke Guo, Kui Wu, Lailong Luo \\
 _IEEE Transactions on Mobile Computing (TMC), Jan. 2024. DOI:10.1109/TMC.2024.3358890._
 - **Power Demand Reshaping Using Energy Storage for Distributed Edge Clouds** \\
-Dongyu Zheng, Lei Liu, Guoming Tang, Yi Wang, Weichao Li \\
+Dongyu Zheng, Lei Liu, Guoming Tang*, Yi Wang, Weichao Li \\
 _IEEE Transactions on Parallel and Distributed Systems (TPDS), Vol. 35, No. 2, 2024._
 - **Why and How Lasagna Works: A New Design of Air-Ground Integrated Infrastructure** \\
 Peipei Chen, Lailong Luo, Deke Guo, Guoming Tang, Baokang Zhao, Yan Li, Xueshan Luo \\
@@ -41,7 +41,7 @@ _IEEE Network, Jan. 2024. DOI:10.1109/MNET.2024.3350025._
 Guoying Qiu, Guoming Tang, Chuandong Li, Deke Guo, Yulong Shen, Yan Gan \\
 _IEEE Internet of Things Journal (IoT-J), Nov. 2023. DOI:10.1109/JIOT.2023.3336988._
 - **Distributed BESS Scheduling for Power Demand Reshaping in 5G and Beyond Networks** \\
-Peng Qin, Guoming Tang, Yang Fu, Yi Wang \\
+Peng Qin, Guoming Tang*, Yang Fu, Yi Wang \\
 _IEEE Transactions on Green Communications and Networking (TGCN), Nov. 2023. DOI:10.1109/TGCN.2023.3332494._
 - **Differentiated Location Privacy Protection in Mobile Communication Services: A Survey from the Semantic Perception Perspective** \\
 Guoying Qiu, Guoming Tang, Chuandong Li, Lailong Luo, Deke Guo, Yulong Shen \\

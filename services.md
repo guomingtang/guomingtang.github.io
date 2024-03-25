@@ -14,6 +14,7 @@ title: Service - Guoming Tang
 
 **Technical Committee Members**
 
+- IEEE/ACM International Symposium on Quality of Service (IWQoS), 2024
 - International Conference on Communications (ICC), 2024
 - International Conference on Mobility, Sensing and Networking (MSN), 2023
 - International Conference on Parallel and Distributed Systems (ICPADS), 2021-2023

@@ -24,6 +24,9 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ### 2024
 
+- **Taking Advantage of Mistakes: Rethinking Clustered Federated Learning for IoT Anomaly Detection** \\
+Jiamin Fan, Kui Wu, Guoming Tang, Yang Zhou, Shengqiang Huang \\
+_IEEE Transactions on Parallel and Distributed Systems (TPDS), Mar. 2024. DOI:10.1109/TPDS.2024.3379905._
 - **EV-Assisted Computing for Energy Cost Saving at Edge Data Centers** \\
 Hanlong Liao, Guoming Tang*, Deke Guo, Kui Wu, Lailong Luo \\
 _IEEE Transactions on Mobile Computing (TMC), Jan. 2024. DOI:10.1109/TMC.2024.3358890._

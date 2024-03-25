@@ -15,6 +15,7 @@ For more about my research, please refer to the [publications](/publications).
 
 ### <img src="../img/news.png" height="40px"> News
 
+- Mar. 2024: One paper got accepted to IEEE TPDS.
 - Jan. 2024: Two papers got accepted to IEEE Network and TMC, respectively.
 - Dec. 2024: One Paper got accepted to IEEE TPDS.
 - Nov. 2023: Two papers got accepted to IEEE TGCN and IoT-J, respectively.

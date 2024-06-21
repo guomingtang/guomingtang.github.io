@@ -24,6 +24,9 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ### 2024
 
+- **Rethinking Low-Carbon Edge Computing System Design with Renewable Energy Sharing** \\
+Hanlong Liao, Guoming Tang*, Deke Guo, Ruide Cao, Yi Wang\\
+_International Conference in Parallel Processing (ICPP), Gotland, Sweden, Aug. 2024._
 - **Taking Advantage of Mistakes: Rethinking Clustered Federated Learning for IoT Anomaly Detection** \\
 Jiamin Fan, Kui Wu, Guoming Tang, Yang Zhou, Shengqiang Huang \\
 _IEEE Transactions on Parallel and Distributed Systems (TPDS), Mar. 2024. DOI:10.1109/TPDS.2024.3379905._
@@ -67,7 +70,7 @@ _IEEE International Conference on Distributed Computing Systems (ICDCS), Hong Ko
 - **FedNILM: Applying Federated Learning to Collaborative NILM Applications** \\
 Yu Zhang, Guoming Tang*, Qianyi Huang, Yi Wang, Kui Wu, Keping Yu, Xun Shao \\
 _IEEE Transactions on Green Communications and Networking (TGCN), Vol. 7, No. 2, pp. 857-868, 2023._
-- **HyEdge: A Cooperative Edge Computing Framework for Provisioning Private and Public Services"** \\
+- **HyEdge: A Cooperative Edge Computing Framework for Provisioning Private and Public Services** \\
 Siyuan Gu, Deke Guo, Guoming Tang, Lailong Luo, Yuchen Sun, Xueshan Luo \\
 _ACM Transactions on Internet of Things (TIOT), 2023. https://doi.org/10.1145/3585078._
 

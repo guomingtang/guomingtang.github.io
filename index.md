@@ -11,7 +11,7 @@ Hi there! Welcome to my homepage. I am currently an Assistant Professor in Data 
 
 Aided by the data science and AI techniques, my research mainly focuses on dealing with <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a> problems in computing and networking systems. Some ongoing projects include (i) energy-efficient power management in datacenters, (ii) load modeling and monitoring of smart energy systems, and (iii) resource management of cloud/edge computing systems. I am also interested in the intelligent transportation systems, especially those are data-driven and/or AI-enabled.
 
-For more about my research, please refer to the [publications](/publications).
+Contact me: guomingtang [AT] hkust-gz.edu.cn 
 
 ### <img src="../img/news.png" height="40px"> News
 

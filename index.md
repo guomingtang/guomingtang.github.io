@@ -7,7 +7,7 @@ img: /img/guomingtang.jpeg
 social_media: true
 ---
 
-Hi there! Welcome to my homepage. I am currently an Assistant Professor in Data Science and Analysitic (DSA) Thrust, Information Hub, at The Hong Kong University of Science and Technology (Guangzhou).
+Hi there! Welcome to my homepage. I am currently an Assistant Professor in Data Science and Analytics (DSA) Thrust, Information Hub, at The Hong Kong University of Science and Technology (Guangzhou).
 
 Aided by the data science and AI techniques, my research mainly focuses on dealing with <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a> problems in computing and networking systems. Some ongoing projects include (i) energy-efficient power management in datacenters, (ii) load modeling and monitoring of smart energy systems, and (iii) resource management of cloud/edge computing systems. I am also interested in the intelligent transportation systems, especially those are data-driven and/or AI-enabled.
 

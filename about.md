@@ -7,7 +7,7 @@ title: About - Guoming Tang
 
 Guoming Tang is currently an Assistant Professor in Data Science and Analytics (DSA) Thrust, Information Hub, at The Hong Kong University of Science and Technology (Guangzhou). He received the Ph.D. degree in Computer Science from University of Victoria, and the Bachelor's and Master's degrees from National University of Defense Technology. From 2019 to 2021, he worked as a postdoctoral researcher at the Peng Cheng National Laboratory and University of Cambridge, respectively. He was also a visiting research scholar at the University of Waterloo in 2016. His research mainly focuses on green/sustainable computing and cloud-edge computing.
 
-<a href="/img/guomingtang.jpeg" target="_blank">Bio photo</a>
+<a href="/img/guomingtang-new.jpg" target="_blank">Bio photo</a>
 
 ### <img src="../img/honor.png" height="42px"> Honors/Awards
 

@@ -9,8 +9,8 @@ social_media: true
 
 Hi there! Welcome to my homepage. I am currently an Assistant Professor in Data Science and Analytics (DSA) Thrust, Information Hub, at The Hong Kong University of Science and Technology (Guangzhou).
 
-Aided by the data science and AI techniques, my research mainly focuses on dealing with <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a> problems in computing and networking systems. Some ongoing projects include (i) energy-efficient power management in datacenters, (ii) load modeling and monitoring of smart energy systems, and (iii) resource management of cloud/edge computing systems. I am also interested in the intelligent transportation systems, especially those are data-driven and/or AI-enabled.
-
+My research leverages data science principles to tackle challenges in <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a>. Representative ongoing topics include: (i) energy-efficient power management in datacenters, (ii) load modeling and monitoring of smart energy systems, and (iii) resource management of cloud/edge computing systems.
+Additionally, I am keen on utilizing cutting-edge AI and machine learning techniques to address real-world problems, particularly within computing and networking systems.
 
 <span style="color:red">**Recruitment:**</span> I am seeking self-motivated PhD students (Spring/Fall 2025). If you are interested in working with me, please send me an email with your CV and transcripts. 
 

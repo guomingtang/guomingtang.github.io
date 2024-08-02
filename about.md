@@ -25,4 +25,5 @@ Guoming Tang is currently an Assistant Professor in the Data Science and Analyti
 
 
 **Email:** guomingtang[at]hkust-gz[dot]edu[dot].cn or tangguo1999[at]gmail[dot]com \\
+**Tel.:** (020) 8833 3898 (office)
 **Office:** Central Building W3-306, HKUST(GZ)

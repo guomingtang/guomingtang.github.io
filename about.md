@@ -12,7 +12,7 @@ Guoming Tang is currently an Assistant Professor in the Data Science and Analyti
 ### <img src="../img/honor.png" height="42px"> Honors/Awards
 
 - Outstanding Paper Award, IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), 2022
-- Distinguished Innovation Research Award, Tencent, 2021
+- Distinguished Innovation Research Award, Tencent, 2020
 - International Exchange Program of Postdoctoral Research (University of Cambridge), 2020-2021
 - Natural Science Foundation of Hunan Provincial for Excellent Youth, 2019-2021
 - Governor General’s Gold Medal Nomination (PhD Dissertation), UVic CS Dept., 2018

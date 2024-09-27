@@ -26,7 +26,7 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 - **Towards Real-world Deployment of NILM Systems: Challenges and Practices** \\
 Junyu Xue, Yu Zhang, Xudong Wang, Yi Wang, Guoming Tang*\\
-Accepted to _International Conference on Sustainable Computing and Communications (SustainCom), Gotland, Sweden, Sept. 2024. (<a href="http://arxiv.org/abs/2409.14821" target="_blank">arXiv</a>)_
+Accepted to _International Conference on Sustainable Computing and Communications (SustainCom), Sept. 2024. (<a href="http://arxiv.org/abs/2409.14821" target="_blank">arXiv</a>)_
 - **Rethinking Low-Carbon Edge Computing System Design with Renewable Energy Sharing** \\
 Hanlong Liao, Guoming Tang*, Deke Guo, Ruide Cao, Yi Wang\\
 _International Conference in Parallel Processing (ICPP), Gotland, Sweden, Aug. 2024._

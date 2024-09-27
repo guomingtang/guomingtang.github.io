@@ -18,8 +18,8 @@ Additionally, I am keen on utilizing cutting-edge AI and machine learning techni
 
 ### <img src="../img/news.png" height="40px"> News
 
-- Sept. 2024: Our work on <a href="http://arxiv.org/abs/2409.14821" target="_blank">NILM Systems</a> got accepted to SustainCom'24.
-- Jun. 2024: Our paper on <a href="https://dl.acm.org/doi/pdf/10.1145/3673038.3673080" target="_blank">Low-Carbon Edge Computing Systems</a> got accepted to ICPP'24.
+- Sept. 2024: Our work on <a href="http://arxiv.org/abs/2409.14821" target="_blank">NILM systems</a> got accepted to SustainCom'24.
+- Jun. 2024: Our work on <a href="https://dl.acm.org/doi/pdf/10.1145/3673038.3673080" target="_blank">low-carbon edge computing system</a> got accepted to ICPP'24.
 - Mar. 2024: One paper got accepted to IEEE TPDS.
 - Jan. 2024: Two papers got accepted to IEEE Network and TMC, respectively.
 - Dec. 2023: One Paper got accepted to IEEE TPDS.

@@ -30,6 +30,9 @@ Accepted to _International Conference on Sustainable Computing and Communication
 - **Rethinking Low-Carbon Edge Computing System Design with Renewable Energy Sharing** \\
 Hanlong Liao, Guoming Tang*, Deke Guo, Ruide Cao, Yi Wang\\
 _International Conference in Parallel Processing (ICPP), Gotland, Sweden, Aug. 2024._
+- **SFCPlanner: An Online SFC Planning Approach With SRv6 Flow Steering** \\
+Changhao Qiu, Bangbang Ren, Lailong Luo, Guoming Tang, Deke Guo\\
+_IEEE Transactions on Network and Service Management (TNSM), Vol. 21, No. 4, pp. 4625-4638, 2024._
 - **Taking Advantage of Mistakes: Rethinking Clustered Federated Learning for IoT Anomaly Detection** \\
 Jiamin Fan, Kui Wu, Guoming Tang, Yang Zhou, Shengqiang Huang \\
 _IEEE Transactions on Parallel and Distributed Systems (TPDS), Mar. 2024. DOI:10.1109/TPDS.2024.3379905._

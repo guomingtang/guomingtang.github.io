@@ -12,7 +12,7 @@ Hi there! Welcome to my homepage. I am an Assistant Professor in the Data Scienc
 My research leverages data science principles to tackle challenges in <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a>. Representative ongoing topics include: (i) energy-efficient power management in datacenters, (ii) load modeling and monitoring of smart energy systems, and (iii) resource management of cloud/edge computing systems.
 Additionally, I am keen on utilizing cutting-edge AI and machine learning techniques to address real-world problems, particularly within computing and networking systems.
 
-<span style="color:red">**Recruitment:**</span> I am seeking self-motivated PhD students (Spring/Fall 2025), RAs and Interns. If you are interested in working with me, please send me an email with your CV and transcripts. 
+<span style="color:red">**Recruitment:**</span> I am seeking self-motivated PhD students, RAs and Interns. If you are interested in working with me, please send me an email with your CV and transcripts. 
 
 **Email:** guomingtang [at] hkust-gz [dot] edu [dot] cn
 

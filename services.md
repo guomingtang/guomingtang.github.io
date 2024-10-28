@@ -27,5 +27,5 @@ title: Service - Guoming Tang
 
 **Invited Reviewers**
 
-- Journals: JSAC, TON, TPDS, TMC, TITS, TSC, TNSE, TSG, TII, Applied Energy, COMNET, etc.
-- Conferences: IWQoS 2021-2022, WASA 2019-2022, ICPADS 2021-2023, HPCC 2021-2022, MoWNet 2017-2018, SmartGridComm 2014-2017, etc.
+- Journals: JSAC, TON, TPDS, TMC, TITS, TSC, TNSE, TSG, TII, Applied Energy, COMNET, Energy Storage, etc.
+- Conferences: IWQoS 2021-2024, WASA 2019-2022, ICPADS 2021-2023, HPCC 2021-2022, MoWNet 2017-2018, SmartGridComm 2014-2017, etc.

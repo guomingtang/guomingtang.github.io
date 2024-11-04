@@ -18,6 +18,7 @@ Additionally, I am keen on utilizing cutting-edge AI and machine learning techni
 
 ### <img src="../img/news.png" height="40px"> News
 
+- Nov. 2024: Our paper on real-world NILM system deployment won the **Best Paper Award** of SustainCom'24.
 - Sept. 2024: Our work on <a href="http://arxiv.org/abs/2409.14821" target="_blank">NILM systems</a> got accepted to SustainCom'24.
 - Jun. 2024: Our work on <a href="https://dl.acm.org/doi/pdf/10.1145/3673038.3673080" target="_blank">low-carbon edge computing system</a> got accepted to ICPP'24.
 - Mar. 2024: One paper got accepted to IEEE TPDS.

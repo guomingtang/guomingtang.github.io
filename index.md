@@ -3,7 +3,7 @@ layout: page
 title: Guoming Tang
 subtitle: Assistant Professor, DSA Thrust, Information Hub
 subtitle2: The Hong Kong University of Science and Technology (Guangzhou)
-img: /img/guomingtang-new.png
+img: /img/profile-photo-gmtang-2024.png
 social_media: true
 ---
 

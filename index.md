@@ -7,14 +7,21 @@ img: /img/profile-photo-gmtang-2024.png
 social_media: true
 ---
 
-Hi there! Welcome to my homepage. I am an Assistant Professor in the Data Science and Analytics (DSA) Thrust at the Information Hub, The Hong Kong University of Science and Technology (Guangzhou).
+Hello and welcome!
 
-My research leverages data science principles to tackle challenges in <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a>. Representative ongoing topics include: (i) energy-efficient power management in datacenters, (ii) load modeling and monitoring of smart energy systems, and (iii) resource management of cloud/edge computing systems.
-Additionally, I am keen on utilizing cutting-edge AI and machine learning techniques to address real-world problems, particularly within computing and networking systems.
+I am a tenure-track Assistant Professor in the Data Science and Analytics (DSA) Thrust at the Information Hub, The Hong Kong University of Science and Technology (Guangzhou).
 
-<span style="color:red">**Recruitment:**</span> I am seeking self-motivated PhD students, RAs and Interns. If you are interested in working with me, please send me an email with your CV and transcripts. 
+I lead the Sustainable Computing (SusCom) Lab, where we apply machine learning and data science techniques to address <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a> challenges, particularly focusing on AI infrastructure. Our current research interests include:
+
+- Energy-efficient AI model serving, with a special emphasis on large language models (LLMs);
+- Resource management strategies, including scheduling, dispatching, and orchestrating, in cloud and edge computing environments.
+
+I am also passionate about developing intelligent solutions for power monitoring, modeling, and control in smart homes and buildings.
+
+<span style="color:red">**Recruitment:**</span> I am actively seeking self-motivated PhD students, RAs, and Interns to join my research team. If you are interested in working with me, please send me an email with your CV and transcripts.
 
 **Email:** guomingtang [at] hkust-gz [dot] edu [dot] cn
+
 
 ### <img src="../img/news.png" height="40px"> News
 

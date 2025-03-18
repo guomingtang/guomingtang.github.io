@@ -7,6 +7,7 @@ img: /img/profile-photo-gmtang-2024.png
 social_media: true
 ---
 
+<div style="text-align: justify;">
 Hello and welcome!
 
 I am a tenure-track Assistant Professor in the Data Science and Analytics (DSA) Thrust at the Information Hub, The Hong Kong University of Science and Technology (Guangzhou).
@@ -20,15 +21,17 @@ We are also interested in developing (real) intelligent and practical solutions 
 
 - Non-intrusive load monitoring (NILM) for smart homes;
 - Integrating LLM agents into building energy systems (BESs).
+</div>
 
 <div style="
     background-color: #f2f2f2; 
     border-radius: 5px;
     padding: 15px; 
-    margin: 10px 0;">
+    margin: 10px 0;
+    text-align: justify;">
   
   <span style="color:red"><strong>Recruitment:</strong></span> 
-  I am actively seeking motivated PhD students, Research Assistants (RAs), and Interns to join my research group. Interested candidates should send their CV and academic transcripts to my email below.
+  I am actively seeking self-motivated PhD students, Research Assistants (RAs), and Interns to join my research group. If you are interested, please send your CV and transcripts to my email below.
 
   <br><br>
   <strong>Email:</strong> guomingtang [at] hkust-gz [dot] edu [dot] cn

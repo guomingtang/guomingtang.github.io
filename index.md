@@ -27,8 +27,7 @@ We are also interested in developing (real) intelligent and practical solutions 
     background-color: #f2f2f2; 
     border-radius: 5px;
     padding: 15px; 
-    margin: 10px 0;
-    text-align: justify;">
+    margin: 10px 0;">
   
   <span style="color:red"><strong>Recruitment:</strong></span> 
   I am actively seeking self-motivated PhD students, RAs, and Interns to join my research group. If you are interested, please send your CV and transcripts to my email below.

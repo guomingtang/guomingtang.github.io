@@ -21,10 +21,19 @@ We are also interested in developing (real) intelligent and practical solutions 
 - Non-intrusive load monitoring (NILM) for smart homes;
 - Integrating LLM agents into building energy systems (BESs).
 
+<div style="
+    background-color: #f2f2f2; 
+    border-radius: 5px;
+    padding: 15px; 
+    margin: 10px 0;">
+  
+  <span style="color:red"><strong>Recruitment:</strong></span> 
+  I am actively seeking motivated PhD students, Research Assistants (RAs), and Interns to join my research group. Interested candidates should send their CV and academic transcripts to my email below.
 
-<span style="color:red">**Recruitment:**</span> I am actively seeking self-motivated PhD students, RAs, and Interns to join my research team. If you are interested in working with me, please send me an email with your CV and transcripts.
+  <br><br>
+  <strong>Email:</strong> guomingtang [at] hkust-gz [dot] edu [dot] cn
 
-**Email:** guomingtang [at] hkust-gz [dot] edu [dot] cn
+</div>
 
 
 ### <img src="../img/news.png" height="40px"> News

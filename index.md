@@ -16,7 +16,7 @@ I lead the Sustainable Computing (SusCom) Lab, where we apply machine learning a
 - Energy-efficient AI model serving, with a special emphasis on large language models (LLMs);
 - Computational resource management, including scheduling, dispatching, and orchestrating, in cloud and edge environments.
 
-We are also interested in developing (real) intelligent and practical solutions for power monitoring, modeling, and control in smart homes and buildings. Typical research problems we are tackling include:
+We are also interested in developing (real) intelligent and practical solutions for power monitoring, modeling, and control in **smart homes \& buildings**. Typical research problems we are tackling include:
 
 - Non-intrusive load monitoring (NILM) for smart homes;
 - Integrating LLM agents into building energy systems (BESs).

@@ -5,12 +5,13 @@ title: About - Guoming Tang
 
 ### <img src="../img/bio.png" height="40px"> Bio
 
-Guoming Tang is currently an Assistant Professor in the Data Science and Analytics (DSA) Thrust at the Information Hub, The Hong Kong University of Science and Technology (Guangzhou). He received his PhD in Computer Science from University of Victoria, Canada, and both his Bachelor’s and Master’s degrees from National University of Defense Technology, China. His research mainly focuses on green/sustainable computing, cloud/edge computing, and applied AI/machine learning, where he has authored over 80 papers in top-tier journals (TON, JSAC, TPDS, TMC etc.) and prestigious conferences (INFOCOM, ICDCS, Middleware, e-Energy etc.). He was an invited participant of the 4th Heidelberg Laureate Forum (one of 200 outstanding young researchers worldwide), and received the CCF-Tencent Distinguished Innovation Research Award in 2020 and the Outstanding Paper Award of UIC 2022.
+Guoming Tang is an Assistant Professor in the Data Science and Analytics (DSA) Thrust at the Information Hub, The Hong Kong University of Science and Technology (Guangzhou). He received his PhD in Computer Science from University of Victoria, Canada, and both his Bachelor’s and Master’s degrees from National University of Defense Technology, China. His research focuses on sustainable computing, cloud/edge computing, and applied AI/ML. He was an invited participant of the Heidelberg Laureate Forum (one of 200 outstanding young researchers worldwide), and received the CCF-Tencent Distinguished Innovation Research Award in 2020, the Outstanding Paper Award of UIC 2022 and the Best Paper Award of SustainCom 2024.
 
 <a href="/img/profile-photo-gmtang-2024.png" target="_blank">Bio photo</a>
 
 ### <img src="../img/honor.png" height="42px"> Honors/Awards
 
+- Best Paper Award, IEEE International Conference on Sustainable Computing and Communications (SustainCom), 2024
 - Outstanding Paper Award, IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), 2022
 - Distinguished Innovation Research Award, Tencent, 2020
 - International Exchange Program of Postdoctoral Research (University of Cambridge), 2020-2021

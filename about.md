@@ -25,6 +25,6 @@ Guoming Tang is an Assistant Professor in the Data Science and Analytics (DSA) T
 ### <img src="../img/contact.png" height="42px"> Contact
 
 
-**Email:** guomingtang[at]hkust-gz[dot]edu[dot].cn or tangguo1999[at]gmail[dot]com \\
+**Email:** guomingtang[at]hkust-gz[dot]edu[dot].cn\\
 **Tel.:** (020) 8833 3898 (office) \\
-**Office:** Central Building W3-306, HKUST(GZ)
+**Office:** W3-306, Central Building, HKUST(GZ)

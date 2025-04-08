@@ -9,7 +9,7 @@ Guoming Tang is an Assistant Professor in the Data Science and Analytics (DSA) T
 
 <a href="/img/profile-photo-gmtang-2024.png" target="_blank">Bio photo</a>
 
-### <img src="../img/honor.png" height="45px"> Honors/Awards
+### <img src="../img/honor.png" height="48px"> Honors/Awards
 
 - Best Paper Award, IEEE International Conference on Sustainable Computing and Communications (SustainCom), 2024
 - Outstanding Paper Award, IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), 2022
@@ -22,7 +22,7 @@ Guoming Tang is an Assistant Professor in the Data Science and Analytics (DSA) T
 - Mitacs Globalink Research Award, Mitacs Canada, 2014
 - Outstanding Graduate (top 2%), National University of Defense Technology, 2010
 
-### <img src="../img/contact.png" height="40px"> Contact
+### <img src="../img/contact.png" height="42px"> Contact
 
 
 **Email:** guomingtang[at]hkust-gz[dot]edu[dot].cn or tangguo1999[at]gmail[dot]com \\

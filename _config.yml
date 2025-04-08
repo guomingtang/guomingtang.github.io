@@ -26,7 +26,7 @@ navbar-links:
   Publication: "publications"
   Teaching: "teaching"
   Service: "services"
-  # Group: "group"
+  Group: "group"
   Misc: "misc"
 
   # Resources:

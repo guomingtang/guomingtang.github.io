@@ -40,7 +40,7 @@ We are also interested in developing (real) intelligent and practical solutions 
 
 ### <img src="../img/news.png" height="40px"> News
 
-- Apr. 2025: **ZSMerge**, our work on zero-shot KV Cache Compression for LLMs, is now available on <a href="https://arxiv.org/abs/2503.10714" target="_blank">arXiv</a> and open-sourced on <a href="https://github.com/SusCom-Lab/ZSMerge" target="_blank">GitHub</a>.
+- Apr. 2025: **ZSMerge** (zero-shot KV Cache Compression for LLMs) is now available on <a href="https://arxiv.org/abs/2503.10714" target="_blank">arXiv</a> and open-sourced on <a href="https://github.com/SusCom-Lab/ZSMerge" target="_blank">GitHub</a>.
 - Mar. 2025: **GreenFL** and **SAGkit** got accepted to ICDCS'25 and ICDCSW'25, respectively.
 - Mar. 2025: Three papers got accepted to IEEE TIFS, TGCN and TVT, respectively.
 - Nov. 2024: Our paper on real-world NILM system deployment won the **Best Paper Award** of SustainCom'24.

@@ -5,7 +5,7 @@ title: Group - Guoming Tang
 
 ### <img src="../img/suscomlab.png" height="55px"> SusCom Lab
 
-I’m fortunate to work with a brilliant and passionate team driving real-world impact in data science and AI.
+_I’m fortunate to work with a brilliant and passionate team driving real-world impact in data science and AI._
 
 ---
 

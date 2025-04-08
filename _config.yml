@@ -24,9 +24,9 @@ description: Guoming Tang's Homepage
 navbar-links:
   About: "about"
   Publication: "publications"
+  Group: "group"
   Teaching: "teaching"
   Service: "services"
-  Group: "group"
   Misc: "misc"
 
   # Resources:

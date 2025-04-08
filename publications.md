@@ -22,6 +22,26 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ---
 
+### 2025
+
+- **GreenFL: Carbon-efficient Federated Learning over RE Powered Edge Computing Systems** \\
+Hanlong Liao, Yu Zhang, Lailong Luo, Deke Guo and Guoming Tang*\\
+_Accepted to IEEE International Conference on Distributed Computing Systems (ICDCS), Mar. 2025._
+- **SAGkit: A Python SAG Toolkit for Response Time Analysis of Hybrid-Triggered Jobs** \\
+Ruide Cao, Zhuyun Qi, Qinyang He, Chenxi Ling, Yi Wang and Guoming Tang\\
+_Accepted to IEEE International Conference on Distributed Computing Systems Workshop (ICDCSW), Mar. 2025._
+
+- **Online Power Scheduling for Energy Harvesting RTU in 5G-Enabled Cyber-Physical Power System** \\
+Peng Qin, Yang Fu, Guoming Tang*, Xiongwen Zhao, Gangjun Gong, Jun Lu\\
+_IEEE Transactions on Green Communications and Networking (TGCN), Mar. 2025._
+- **Joint Design of Sensing, Communication, and Computation for Multi-UAV-Enabled Over-the-Air Federated Learning** \\
+Yang Fu, Peng Qin, Guoming Tang, Xiongwen Zhao\\
+_IEEE Transactions on Vehicular Technology (TVT), Apr. 2025._
+- **Quantifying Privacy Risks of Behavioral Semantics in Mobile Communication Services** \\
+Guoying Qiu, Tiecheng Bai, Guoming Tang, Deke Guo, Chuandong Li, Yan Gan, Baoping Zhou, Yulong Shen\\
+_IEEE Transactions on Information Forensics and Security (TIFS), Vol. 20, 2025._
+
+
 ### 2024
 
 - **Towards Real-world Deployment of NILM Systems: Challenges and Practices** \\

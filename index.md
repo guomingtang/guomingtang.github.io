@@ -10,11 +10,9 @@ social_media: true
 
 Hello and welcome!
 
-I am a tenure-track Assistant Professor in the Data Science and Analytics (DSA) Thrust at the Information Hub, The Hong Kong University of Science and Technology (Guangzhou).
+I am a tenure-track Assistant Professor in the Data Science and Analytics (DSA) Thrust at the Information Hub, The Hong Kong University of Science and Technology (Guangzhou), where I lead the Sustainable Computing (SusCom) Lab. Our research leverages machine learning and data science techniques to address <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a> challenges, with a special focus on **AI infrastructure**. Our current research interests include:
 
-I lead the Sustainable Computing (SusCom) Lab, where we apply machine learning and data science techniques to address <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a> challenges, particularly focusing on **AI infrastructure**. Our current research interests include:
-
-- Energy-efficient AI model serving, with a special emphasis on large language models (LLMs);
+- Energy-efficient AI model serving, particularly focusing on large language models (LLMs);
 - Computational resource management, including scheduling, dispatching, and orchestrating, in cloud and edge environments.
 
 We are also interested in developing (real) intelligent and practical solutions for power monitoring, modeling, and control in **smart homes & buildings**. Typical research problems we are tackling include:

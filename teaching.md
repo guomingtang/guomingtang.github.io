@@ -3,7 +3,7 @@ layout: default
 title: Teaching - Guoming Tang
 ---
 
-## <img src="../img/teaching.png" height="50px">  Teaching Experiences
+## <img src="../img/teaching.png" height="50px">  Teaching
 
 _Of all that is expected of a professor, teaching remains the one—perhaps the only one—where value is certain._
 

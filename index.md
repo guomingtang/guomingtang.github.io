@@ -15,7 +15,7 @@ I am a tenure-track Assistant Professor in the Data Science and Analytics (DSA) 
 - Energy-efficient AI model serving, particularly focusing on large language models (LLMs);
 - Computational resource management, including scheduling, dispatching, and orchestrating, in cloud and edge environments.
 
-We are also interested in developing (real) intelligent and practical solutions for power monitoring, modeling, and control in **smart homes & buildings**. Typical research problems we are tackling include:
+We are also interested in developing AI-aided and practical solutions for power monitoring, modeling, and saving in **smart homes & buildings**. Typical research problems we are tackling include:
 
 - Non-intrusive load monitoring (NILM) for smart homes;
 - Integrating LLM agents into building energy systems (BESs).
@@ -42,7 +42,6 @@ We are also interested in developing (real) intelligent and practical solutions 
 - Mar. 2025: **GreenFL** and **SAGkit** got accepted to ICDCS'25 and ICDCSW'25, respectively.
 - Mar. 2025: Three papers got accepted to IEEE TIFS, TGCN and TVT, respectively.
 - Nov. 2024: Our paper on real-world NILM system deployment won the **Best Paper Award** of SustainCom'24.
-- Sept. 2024: Our work on <a href="http://arxiv.org/abs/2409.14821" target="_blank">NILM systems</a> got accepted to SustainCom'24.
 - Jun. 2024: Our work on <a href="https://dl.acm.org/doi/pdf/10.1145/3673038.3673080" target="_blank">low-carbon edge computing system</a> got accepted to ICPP'24.
 - Mar. 2024: One paper got accepted to IEEE TPDS.
 - Jan. 2024: Two papers got accepted to IEEE Network and TMC, respectively.

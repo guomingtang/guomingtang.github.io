@@ -24,6 +24,7 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 
 **Interns & RAs**
 
+- Pu Zhang (2025-Present)
 - Zhehao Zhang (2025-Present)
 - Kaiyuan Zhai (2025-Present)
 - Yufang Li (2025-Present)

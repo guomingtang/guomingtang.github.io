@@ -29,5 +29,5 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 - Zhehao Zhang (2025-Present)
 - Kaiyuan Zhai (2025-Present)
 - Yufang Li (2025-Present)
-- Hongzhen Huang (2024-Present)
-- Zicong Ye (2024-Present)
+- Hongzhen Huang (2024-Present, RBM 2025 intake)
+- Zicong Ye (2024-Present, RBM 2025 intake)

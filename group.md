@@ -11,23 +11,34 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 
 **PhD Students**
 
-- Kunming Zhang (2025–Present)
-- Xin Liu (2025–Present)
-- Junyu Xue (2024-Present, Co-supervised)
-- Hanlong Liao (2022-Present, Co-supervised)
+- Jiyang Liu (2025 Fall intake)
+- Kunming Zhang (2025 Spring–Present)
+- Xin Liu (2025 Spring–Present)
+- Junyu Xue (2024 Fall-Present, Co-supervised)
+- Hanlong Liao (2021 Fall-Present, Co-supervised)
 
 **Master Students**
 
-- Xingyuan Xian (2025-Present)
-- Xiaoling He (2024-Present)
-- Yike Liu (2024-Present)
+- Yuwei Li (Jul. 2025-Present, RBM 2025)
+- Pu Zhang (Apr. 2025-Present, RBM 2025)
+- Zicong Ye (Oct. 2024-Present, RBM 2025)
+- Xingyuan Xian (Mar. 2025-Present, MSc 2024)
 
 **Interns & RAs**
 
-- Jiyang Liu (2025-Present)
-- Pu Zhang (2025-Present)
-- Zhehao Zhang (2025-Present)
-- Kaiyuan Zhai (2025-Present)
-- Yufang Li (2025-Present)
-- Hongzhen Huang (2024-Present, RBM 2025 intake)
-- Zicong Ye (2024-Present, RBM 2025 intake)
+- Jiacheng Cui (Jul. 2025-Present)
+- Qinyang He (Jul. 2025-Present)
+- Hemu Liu (Jun. 2025-Present)
+- Shuyang Pan (Jun. 2025-Present)
+- Kaiyuan Zhai (Jun. 2025-Present)
+- Zhehao Zhang (Apr. 2025-Present)
+- Yufang Li (Mar. 2025-Present)
+
+---
+
+**Past Members**
+- Yike Liu (MSc (DCAI) at HKUST-GZ, Oct. 2024-Jul. 2025, now Intern at Ali)
+- Dongyu Zheng (Intern from SDU, Jul. 2024-May. 2025, now AP at IoIAI of CAS)
+- Hongzhen Huang (Intern from SCUT, Dec. 2024-Jun. 2025, now RBM at HKUST-GZ)
+- Ruide Cao (Intern from SUSTech, Jul. 2024-Feb. 2025, now PhD student at UCR)
+- Shicheng Liu (Intern from Tsinghua, Jul. 2024-Aug. 2024)

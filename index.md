@@ -10,9 +10,9 @@ social_media: true
 
 Hello and welcome!
 
-I am a tenure-track Assistant Professor in the Data Science and Analytics (DSA) Thrust at the Information Hub, The Hong Kong University of Science and Technology (Guangzhou), and an Affiliate Assistant Professor at The Hong Kong University of Science and Technology. I lead the Sustainable Computing (SusCom) Lab at HKUST(GZ), where we harness machine learning and data science techniques to address <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a> challenges. Our work particularly focuses on advancing **AI Infra** to promote energy efficiency, scalability, and environmental responsibility in computing systems.
+I am a tenure-track Assistant Professor in the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/" target="_blank">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/" target="_blank">Information Hub</a>, <a href="https://www.hkust-gz.edu.cn/" target="_blank">The Hong Kong University of Science and Technology (Guangzhou)</a>, and an Affiliate Assistant Professor at <a href="https://hkust.edu.hk/" target="_blank">The Hong Kong University of Science and Technology</a>. I lead the **Sustainable Computing (SusCom)** Lab at HKUST(GZ), where we harness machine learning and data science to tackle <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a> challenges. Our work particularly focuses on advancing **AI Infra** to promote energy efficiency, scalability, and environmental responsibility in computing systems.
 
-Our current research interests include:
+Current research interests include:
 
 - Energy-efficient AI model serving, particularly focusing on large language models (LLMs);
 - Computational resource management, including scheduling, dispatching, and orchestrating, in cloud and edge environments.

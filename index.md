@@ -40,13 +40,14 @@ We are also interested in developing AI-aided and practical solutions for power 
 
 ### <img src="../img/news.png" height="40px"> News
 
-- May. 2025: **LLM4NILM**, the first study applying prompt-driven, general-purpose LLMs to NILM, is now available on <a href="https://arxiv.org/abs/2505.06330" target="_blank">arXiv</a>.
-- May. 2025: Two papers got accepted to IEEE/ACM TON and IEEE TITS, respectively.
-- Apr. 2025: **ZSMerge** (zero-shot KV Cache Compression for LLMs) is now available on <a href="https://arxiv.org/abs/2503.10714" target="_blank">arXiv</a> and open-sourced on <a href="https://github.com/SusCom-Lab/ZSMerge" target="_blank">GitHub</a>.
-- Mar. 2025: **GreenFL** and **SAGkit** got accepted to ICDCS'25 and ICDCSW'25, respectively.
-- Mar. 2025: Three papers got accepted to IEEE TIFS, TGCN and TVT, respectively.
-- Nov. 2024: Our paper on real-world NILM system deployment won the **Best Paper Award** of SustainCom'24.
-- Jun. 2024: Our work on <a href="https://dl.acm.org/doi/pdf/10.1145/3673038.3673080" target="_blank">low-carbon edge computing system</a> got accepted to ICPP'24.
+<ul style="margin-top: 10px; padding-left: 20px;">
+  <li>May. 2025: <strong>LLM4NILM</strong>, the first study applying prompt-driven, general-purpose LLMs to NILM, is now available on <a href="https://arxiv.org/abs/2505.06330" target="_blank">arXiv</a>.</li>
+  <li>May. 2025: Two papers got accepted to IEEE/ACM TON and IEEE TITS, respectively.</li>
+  <li>Apr. 2025: <strong>ZSMerge</strong> (zero-shot KV Cache Compression for LLMs) is now available on <a href="https://arxiv.org/abs/2503.10714" target="_blank">arXiv</a> and open-sourced on <a href="https://github.com/SusCom-Lab/ZSMerge" target="_blank">GitHub</a>.</li>
+  <li>Mar. 2025: <strong>GreenFL</strong> and <strong>SAGkit</strong> got accepted to ICDCS'25 and ICDCSW'25, respectively.</li>
+  <li>Mar. 2025: Three papers got accepted to IEEE TIFS, TGCN and TVT, respectively.</li>
+  <li>Nov. 2024: Our paper on real-world NILM system deployment won the <strong>Best Paper Award</strong> of SustainCom'24.</li>
+  <li>Jun. 2024: Our work on <a href="https://dl.acm.org/doi/pdf/10.1145/3673038.3673080" target="_blank">low-carbon edge computing system</a> got accepted to ICPP'24.</li>
 
 <div id="olderNews" style="display: none;">
   <li>Mar. 2024: One paper got accepted to IEEE TPDS.</li>

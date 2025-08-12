@@ -40,7 +40,7 @@ We are also interested in developing AI-aided and practical solutions for power 
 
 ### <img src="../img/news.png" height="40px"> News
 
-<ul style="margin-top: 10px; padding-left: 20px;">
+<ul style="margin-top: 10px; padding-left: 40px;">
   <li>May. 2025: <strong>LLM4NILM</strong>, the first study applying prompt-driven, general-purpose LLMs to NILM, is now available on <a href="https://arxiv.org/abs/2505.06330" target="_blank">arXiv</a>.</li>
   <li>May. 2025: Two papers got accepted to IEEE/ACM TON and IEEE TITS, respectively.</li>
   <li>Apr. 2025: <strong>ZSMerge</strong> (zero-shot KV Cache Compression for LLMs) is now available on <a href="https://arxiv.org/abs/2503.10714" target="_blank">arXiv</a> and open-sourced on <a href="https://github.com/SusCom-Lab/ZSMerge" target="_blank">GitHub</a>.</li>

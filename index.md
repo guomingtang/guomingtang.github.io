@@ -49,18 +49,18 @@ We are also interested in developing AI-aided and practical solutions for power 
 - Jun. 2024: Our work on <a href="https://dl.acm.org/doi/pdf/10.1145/3673038.3673080" target="_blank">low-carbon edge computing system</a> got accepted to ICPP'24.
 
 <div id="olderNews" style="display: none;">
-- Mar. 2024: One paper got accepted to IEEE TPDS.
-- Jan. 2024: Two papers got accepted to IEEE Network and TMC, respectively.
-- Dec. 2023: One Paper got accepted to IEEE TPDS.
-- Nov. 2023: Two papers got accepted to IEEE TGCN and IoT-J, respectively.
-- Aug. 2023: <a href="https://dl.acm.org/doi/epdf/10.1145/3617589" target="_blank">One survey paper</a> got accpeted to ACM Computing Surveys.
-- Aug. 2023: Three papers got accepted to IEEE IoT-J.
-- May. 2023: One paper got accepted to ICDCS'23.
-- May. 2023: **FedNILM** was published by IEEE TGCN.
-- Apr. 2023: **HyEdge** got accepted to ACM TIOT.
+  <li>Mar. 2024: One paper got accepted to IEEE TPDS.</li>
+  <li>Jan. 2024: Two papers got accepted to IEEE Network and TMC, respectively.</li>
+  <li>Dec. 2023: One Paper got accepted to IEEE TPDS.</li>
+  <li>Nov. 2023: Two papers got accepted to IEEE TGCN and IoT-J, respectively.</li>
+  <li>Aug. 2023: <a href="https://dl.acm.org/doi/epdf/10.1145/3617589" target="_blank">One survey paper</a> got accepted to ACM Computing Surveys.</li>
+  <li>Aug. 2023: Three papers got accepted to IEEE IoT-J.</li>
+  <li>May. 2023: One paper got accepted to ICDCS'23.</li>
+  <li>May. 2023: <strong>FedNILM</strong> was published by IEEE TGCN.</li>
+  <li>Apr. 2023: <strong>HyEdge</strong> got accepted to ACM TIOT.</li>
 </div>
 
-<a href="javascript:void(0)" onclick="toggleOlderNews()" style="color: #0066cc; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 10px;">Show Older News (2023)</a>
+<a href="javascript:void(0)" onclick="toggleOlderNews()" style="color: #0066cc; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 10px;">(More...)</a>
 
 <script>
 function toggleOlderNews() {
@@ -72,7 +72,7 @@ function toggleOlderNews() {
     toggleLink.textContent = '(Less...)';
   } else {
     olderNews.style.display = 'none';
-    toggleLink.textContent = '(More...))';
+    toggleLink.textContent = '(More...)';
   }
 }
 </script>

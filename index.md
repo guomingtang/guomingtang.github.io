@@ -47,6 +47,8 @@ We are also interested in developing AI-aided and practical solutions for power 
 - Mar. 2025: Three papers got accepted to IEEE TIFS, TGCN and TVT, respectively.
 - Nov. 2024: Our paper on real-world NILM system deployment won the **Best Paper Award** of SustainCom'24.
 - Jun. 2024: Our work on <a href="https://dl.acm.org/doi/pdf/10.1145/3673038.3673080" target="_blank">low-carbon edge computing system</a> got accepted to ICPP'24.
+
+<div id="olderNews" style="display: none;">
 - Mar. 2024: One paper got accepted to IEEE TPDS.
 - Jan. 2024: Two papers got accepted to IEEE Network and TMC, respectively.
 - Dec. 2023: One Paper got accepted to IEEE TPDS.
@@ -54,5 +56,23 @@ We are also interested in developing AI-aided and practical solutions for power 
 - Aug. 2023: <a href="https://dl.acm.org/doi/epdf/10.1145/3617589" target="_blank">One survey paper</a> got accpeted to ACM Computing Surveys.
 - Aug. 2023: Three papers got accepted to IEEE IoT-J.
 - May. 2023: One paper got accepted to ICDCS'23.
-- May. 2023: _FedNILM_ was published by IEEE TGCN.
-- Apr. 2023: _HyEdge_ got accepted to ACM TIOT.
+- May. 2023: **FedNILM** was published by IEEE TGCN.
+- Apr. 2023: **HyEdge** got accepted to ACM TIOT.
+</div>
+
+<a href="javascript:void(0)" onclick="toggleOlderNews()" style="color: #0066cc; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 10px;">Show Older News (2023)</a>
+
+<script>
+function toggleOlderNews() {
+  var olderNews = document.getElementById('olderNews');
+  var toggleLink = document.querySelector('a[onclick="toggleOlderNews()"]');
+  
+  if (olderNews.style.display === 'none') {
+    olderNews.style.display = 'block';
+    toggleLink.textContent = '(Less...)';
+  } else {
+    olderNews.style.display = 'none';
+    toggleLink.textContent = '(More...))';
+  }
+}
+</script>

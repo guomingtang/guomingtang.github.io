@@ -30,7 +30,7 @@ We are also interested in developing AI-aided and practical solutions for power 
     margin: 10px 0;">
   
   <span style="color:red"><strong>Recruitment:</strong></span> 
-  I am actively seeking self-motivated PhD students, RAs, and Interns to join my research group. If you are interested, please send your CV and transcripts to my email below.
+  I am actively seeking <strong>self-motivated PhD students, RAs, and Interns</strong> to join my research group. If you are interested, please send your CV and transcripts to my email below. If you are currently (or going to be) enrolled in the <strong>RBM program at HKUST(GZ)</strong> and are interested in any of our research topics, please feel free to reach out 😊
 
   <br><br>
   <strong>Email:</strong> guomingtang [at] hkust-gz [dot] edu [dot] cn

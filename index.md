@@ -14,11 +14,13 @@ I am a tenure-track Assistant Professor in the <a href="https://www.hkust-gz.edu
 
 Current research interests include:
 
-- Energy-efficient AI model serving, particularly focusing on large language models (LLMs);
+- KV cache optimization for memory-efficient LLM inference;
+- Energy-efficient AI model/LLM serving and deployment;
 - Computational resource management, including scheduling, dispatching, and orchestrating, in cloud and edge environments.
 
-We are also interested in developing AI-aided and practical solutions for power monitoring, modeling, and saving in **smart homes & buildings**. Typical research problems we are tackling include:
+We are also interested in developing AI-aided and practical solutions for power monitoring, modeling, and saving in **data centers and smart homes/buildings**. Typical research problems we are tackling include:
 
+- Software-defined power supplying for low/zero-carbon data centers;
 - Non-intrusive load monitoring (NILM) for smart homes;
 - Integrating LLM capability into building energy systems (BESs).
 

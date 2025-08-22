@@ -11,7 +11,8 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 
 **PhD Students**
 
-- Jiyang Liu (2025 Fall intake)
+- Xiaohan Zhang (2025 Fall)
+- Jiyang Liu (2025 Fall)
 - Kunming Zhang (2025 Spring–Present)
 - Xin Liu (2025 Spring–Present)
 - Junyu Xue (2024 Fall-Present, Co-supervised)

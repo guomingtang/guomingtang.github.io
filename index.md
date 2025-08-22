@@ -16,9 +16,9 @@ Current research interests include (**Sustainable AI** track):
 
 - KV cache optimization for memory-efficient LLM inference;
 - Energy-efficient AI model/LLM serving and deployment;
-- Scheduling, dispatching, and orchestrating of computational resources (like GPUs) in cloud and edge environments.
+- Scheduling, dispatching and orchestrating of computational resources (like GPUs) in cloud and edge environments.
 
-We are also interested in developing AI-aided solutions for power monitoring, modeling, and saving in data centers and smart homes/buildings. Typical research problems we are tackling include (**AI for Sustainability** track):
+We are also interested in developing AI-aided solutions for power monitoring, modeling and control in data centers and smart homes/buildings. Typical research problems that we are tackling include (**AI for Sustainability** track):
 
 - Software-defined power supplying for low/zero-carbon data centers;
 - Non-intrusive load monitoring (NILM) for smart homes;

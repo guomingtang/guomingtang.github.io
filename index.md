@@ -10,10 +10,7 @@ social_media: true
 
 Hello and welcome!
 
-I am a tenure-track Assistant Professor in the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/" target="_blank">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/" target="_blank">Information Hub</a>, <a href="https://www.hkust-gz.edu.cn/" target="_blank">The Hong Kong University of Science and Technology (Guangzhou)</a>, and an Affiliate Assistant Professor at <a href="https://hkust.edu.hk/" target="_blank">The Hong Kong University of Science and Technology</a>. I lead the **Sustainable Computing (SusCom) Lab** at HKUST(GZ), where we leverage machine learning and data science to address <a href="https://en.wikipedia.org/wiki/Computational_sustainability" target="_blank">computational sustainability</a> challenges. 
-<!--
-Our research focuses on advancing **AI Infra** and **computing systems** to enhance energy efficiency, scalability, and environmental responsibility.
--->
+I am a tenure-track Assistant Professor in the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/" target="_blank">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/" target="_blank">Information Hub</a>, <a href="https://www.hkust-gz.edu.cn/" target="_blank">The Hong Kong University of Science and Technology (Guangzhou)</a>, and an Affiliate Assistant Professor at <a href="https://hkust.edu.hk/" target="_blank">The Hong Kong University of Science and Technology</a>. I lead the **Sustainable Computing (SusCom) Lab** at HKUST(GZ), where our research focuses on advancing **computing systems** and **AI Infra** to enhance energy efficiency, scalability, and environmental responsibility.
 
 Current research interests include (**Sustainable AI** track):
 

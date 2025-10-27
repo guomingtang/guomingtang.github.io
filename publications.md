@@ -46,7 +46,7 @@ Dongyu Zheng, Lei Liu, Guoming Tang*, Deke Guo, Jia Hu\\
 _IEEE Transactions on Intelligent Transportation Systems (TITS), May. 2025._
 - **ChameleonNet: Topology Obfuscation Against Tomography With Critical Information Hiding** \\
 Changhao Qiu, Bangbang Ren, Guoming Tang, Lailong Luo, Deke Guo\\
-_IEEE/ACM Transactions on Networking (TON), May. 2025._
+_IEEE/ACM Transactions on Networking (TON), Vol. 33, No. 5, Oct. 2025._
 - **Online Power Scheduling for Energy Harvesting RTU in 5G-Enabled Cyber-Physical Power System** \\
 Peng Qin, Yang Fu, Guoming Tang*, Xiongwen Zhao, Gangjun Gong, Jun Lu\\
 _IEEE Transactions on Green Communications and Networking (TGCN), Mar. 2025._

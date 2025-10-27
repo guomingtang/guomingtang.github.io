@@ -118,7 +118,7 @@ _ACM Transactions on Internet of Things (TIOT), 2023. https://doi.org/10.1145/35
 
 ### 2022
 
-**&gt; Conferences**
+> Conferences/Workshops
 
 - **Versatility-Performance Balanced Hardware Architecture for Scene Text Detection** \\
 Yao Xin, Guoming Tang, Donglong Chen, Rumin Zhang, Teng Liang, Ray C. C. Cheung \\
@@ -133,7 +133,7 @@ _IEEE International Conference on Cyber Physical and Social Computing (CPSCom), 
 Xudong Wang, Guoming Tang*, Yi Wang, S. Keshav, Yu Zhang \\
 _ACM International Conference on Future Energy Systems (e-Energy), Oldenburg, Germany, Jun. 2022._
 
-**&gt; Journals**
+> Journals
 
 - **FPGA-based Updatable Packet Classification using TSS-combined Bit-selecting Tree** \\
 Yao Xin, Wenjun Li, Guoming Tang, Tong Yang, Xiaohe Hu, Yi Wang \\
@@ -162,7 +162,7 @@ _ACM/IEEE Transactions on Networking (TON), Vol. 30, No. 1, pp. 120-133, 2022._
 
 ### 2021
 
-**&gt; Conferences**
+> Conferences/Workshops
 
 - **Personalized QoE Optimization With Edge-Aided Video Enhancement Services** \\
 Hanlong Liao, Guoming Tang*, Teng Liang, Longguang Wang, Deke Guo \\
@@ -177,7 +177,7 @@ _IEEE International Conference on Distributed Computing Systems (ICDCS), Virtual
 Guoming Tang, Hao Yuan, Deke Guo, Kui Wu, Yi Wang \\
 _International Conference on Computer Communications (INFOCOM), Virtual Conference, May. 2021._
 
-**&gt; Journals**
+> Journals
 
 - **Towards Net-Zero Base Stations with Integrated and Flexible Power Supply in Future Networks** \\
 Hao Yuan#, Guoming Tang#, Teng Liang, Deke Guo, Yi Wang \\
@@ -201,7 +201,7 @@ _IEEE Transactions on Intelligent Transportation Systems (TITS), Vol. 22, No. 10
 
 ### 2020
 
-**&gt; Conferences**
+> Conferences/Workshops
 
 - **AI-Aided Game: Enhancing Defense Performance of Scale-Free Network via Deep Reinforcement Learning** \\
 Ziyue Lu, Guoming Tang*, Baochao Chen, Bangbang Ren, Sheng Chen, Deke Guo \\
@@ -219,7 +219,7 @@ _IFIP Networking Conference, Poster Paper, June, 2020._
 Huan Wang, Kui Wu, Jianping Wang, Guoming Tang \\
 _IEEE International Conference on Computer Communications (INFOCOM), Virtual Conference, 2020._
 
-**&gt; Journals**
+> Journals
 
 - **Joint Optimization of VNF Placement and Flow Scheduling in Mobile Core Network** \\
 Bangbang Ren, Siyuan Gu, Deke Guo, Guoming Tang, Xu lin \\
@@ -258,7 +258,7 @@ _Tsinghua Science and Technology, Vol. 24, No. 4, pp.484-496, 2019._
 
 ### **Before 2019**
 
-**&gt; Conferences**
+> Conferences/Workshops
 
 - **DAG-SFC: Minimize the Embedding Cost of SFC with Parallel VNFs** \\
 Xu Lin, Deke Guo, Yulong Shen, Guoming Tang, Bangbang Ren \\
@@ -304,7 +304,7 @@ Guoming Tang, Kui Wu, Jingsheng Lei \\
 _International Workshop on Non-Intrusive Load Monitoring (NILM), Austin, TX, USA, Jun. 2014._
 
 
-**&gt; Journals**
+> Journals
 
 - **Bikeshare Pool Sizing for Bike-and-ride Multimodal Transit** \\
 Guoming Tang, Srinivasan Keshav, Lukasz Golab, Kui Wu \\

@@ -27,9 +27,7 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 **Interns & RAs**
 
 - Jiacheng Cui (Jul. 2025-Present)
-- Qinyang He (Jul. 2025-Present)
 - Hemu Liu (Jun. 2025-Present)
-- Shuyang Pan (Jun. 2025-Present)
 - Kaiyuan Zhai (Jun. 2025-Present)
 - Pu Zhang (Apr. 2025-Present)
 - Zhehao Zhang (Apr. 2025-Present)
@@ -39,9 +37,11 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 
 **Past Members**
 
-- Yike Liu (MSc at HKUST-GZ, Oct. 2024-Jul. 2025, now Intern at Ali)
-- Xiaoling He (RBM at HKUST-GZ, Jan. 2025-Jun. 2025)
-- Dongyu Zheng (Intern from SDU, Jul. 2024-May. 2025, now AP at IoIAI of CAS)
-- Hongzhen Huang (Intern from SCUT, Dec. 2024-Jun. 2025, now RBM at HKUST-GZ)
-- Ruide Cao (Intern from SUSTech, Jul. 2024-Feb. 2025, now PhD student at UCR)
-- Shicheng Liu (Intern from Tsinghua, Jul. 2024-Aug. 2024)
+- Shuyang Pan (RA at SusComLab, Jun. 2025-Sept. 2025, ➡️ MSc at PolyU)
+- Qinyang He (RA at SusComLab, Jul. 2025-Sept. 2025, ➡️ Math Teacher at Shimen Middle School)
+- Yike Liu (MSc at SusComLab, Oct. 2024-Aug. 2025, ➡️ HONOR)
+- Xiaoling He (RBM at SusComLab, Jan. 2025-Jun. 2025, ➡️ PhD at HKUST-GZ)
+- Dongyu Zheng (Co-advised PhD at SusComLab, Jul. 2024-May. 2025, ➡️ Aisstant Professor at CAS)
+- Hongzhen Huang (Intern at SusComLab, Dec. 2024-Jun. 2025, ➡️ RBM at HKUST-GZ)
+- Ruide Cao (Intern at SusComLab, Jul. 2024-Feb. 2025, ➡️ PhD at UCR)
+- Shicheng Liu (Intern at SusComLab, Jul. 2024-Aug. 2024, ➡️ Tsinghua)

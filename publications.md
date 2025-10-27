@@ -24,12 +24,22 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ### 2025
 
+> **Conferences/Workshops** 
+
+- **GPUnion: Autonomous GPU Sharing on Campus** \\
+Yufang Li, Yuanbo Zhang, Hanlong Liao, Deke Guo and Guoming Tang*\\
+_ACM Workshop on Hot Topics in Networks (HotNets), Nov. 2025._
+- **Prompting Large Language Models for Training-Free Non-Intrusive Load Monitoring** \\
+Junyu Xue, Xudong Wang, Xiaoling He, Shicheng Liu, Yi Wang and Guoming Tang*\\
+_ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), Nov. 2025._
 - **GreenFL: Carbon-efficient Federated Learning over RE Powered Edge Computing Systems** \\
 Hanlong Liao, Yu Zhang, Lailong Luo, Deke Guo and Guoming Tang*\\
 _IEEE International Conference on Distributed Computing Systems (ICDCS), Mar. 2025._
 - **SAGkit: A Python SAG Toolkit for Response Time Analysis of Hybrid-Triggered Jobs** \\
 Ruide Cao, Zhuyun Qi, Qinyang He, Chenxi Ling, Yi Wang and Guoming Tang\\
 _IEEE International Conference on Distributed Computing Systems Workshop (ICDCSW), Mar. 2025._
+
+> **Journals**
 - **Cost-efficient Power Orchestration in Electric Vehicle-integrated VPP using Lightweight Multi-Agent Reinforcement Learning** \\
 Dongyu Zheng, Lei Liu, Guoming Tang*, Deke Guo, Jia Hu\\
 _IEEE Transactions on Intelligent Transportation Systems (TITS), May. 2025._

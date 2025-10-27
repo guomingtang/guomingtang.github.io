@@ -24,7 +24,7 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ### 2025
 
-> **Conferences/Workshops** 
+> Conferences/Workshops 
 
 - **GPUnion: Autonomous GPU Sharing on Campus** \\
 Yufang Li, Yuanbo Zhang, Hanlong Liao, Deke Guo and Guoming Tang*\\
@@ -39,7 +39,8 @@ _IEEE International Conference on Distributed Computing Systems (ICDCS), Mar. 20
 Ruide Cao, Zhuyun Qi, Qinyang He, Chenxi Ling, Yi Wang and Guoming Tang\\
 _IEEE International Conference on Distributed Computing Systems Workshop (ICDCSW), Mar. 2025._
 
-> **Journals**
+> Journals
+
 - **Cost-efficient Power Orchestration in Electric Vehicle-integrated VPP using Lightweight Multi-Agent Reinforcement Learning** \\
 Dongyu Zheng, Lei Liu, Guoming Tang*, Deke Guo, Jia Hu\\
 _IEEE Transactions on Intelligent Transportation Systems (TITS), May. 2025._

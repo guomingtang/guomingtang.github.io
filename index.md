@@ -43,7 +43,7 @@ We are also interested in developing AI-aided solutions for power monitoring, mo
 ### <img src="../img/news.png" height="40px"> News
 
 <ul style="margin-top: 10px; padding-left: 40px;">
-  <li>Sept. 2025: <strong>GPUnion</strong> got accepted to HotNet'25 (<a href="https://arxiv.org/abs/2507.18928" target="_blank">arXiv version</a>). Conguatulations to Yufang! 🎉</li>
+  <li>Oct. 2025: <strong>GPUnion</strong> got accepted to HotNet'25 (<a href="https://arxiv.org/abs/2507.18928" target="_blank">arXiv version</a>). Conguatulations to Yufang! 🎉</li>
   <li>Sept. 2025: <strong>LLM4NILM</strong> got accepted to BuildSys'25 (<a href="https://arxiv.org/abs/2505.06330" target="_blank">arXiv version</a>). Conguatulations to Junyu! 🎉</li>
   <li>May. 2025: Two papers got accepted to IEEE/ACM TON and IEEE TITS, respectively.</li>
   <li>Apr. 2025: <strong>ZSMerge</strong> (zero-shot KV Cache Compression for LLMs) is now available on <a href="https://arxiv.org/abs/2503.10714" target="_blank">arXiv</a> and open-sourced on <a href="https://github.com/SusCom-Lab/ZSMerge" target="_blank">GitHub</a>.</li>

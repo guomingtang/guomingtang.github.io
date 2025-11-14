@@ -43,6 +43,7 @@ We are also interested in developing AI-aided solutions for power monitoring, mo
 ### <img src="../img/news.png" height="40px"> News
 
 <ul style="margin-top: 10px; padding-left: 40px;">
+  <li>Nov. 2025: <strong>CaberNet</strong> got accepted to e-Energy'26 (one of the THREE accepted papers in Fall cycle). Conguatulations to Kaiyuan! 🎉</li>
   <li>Oct. 2025: <strong>GPUnion</strong> got accepted to HotNet'25 (<a href="https://arxiv.org/abs/2507.18928" target="_blank">arXiv version</a>). Conguatulations to Yufang! 🎉</li>
   <li>Sept. 2025: <strong>LLM4NILM</strong> got accepted to BuildSys'25 (<a href="https://arxiv.org/abs/2505.06330" target="_blank">arXiv version</a>). Conguatulations to Junyu! 🎉</li>
   <li>May. 2025: Two papers got accepted to IEEE/ACM TON and IEEE TITS, respectively.</li>

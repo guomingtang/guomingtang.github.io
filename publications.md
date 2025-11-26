@@ -22,22 +22,29 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ---
 
+### 2026
+
+- **CaberNet: Causal Representation Learning for Cross-Domain HVAC Energy Prediction** \\
+Kaiyuan Zhang, Jiacheng Cui, Zhehao Zhang, Junyu Xue, Yang Deng, Kui Wu, Guoming Tang* \\
+_ACM International Conference on Future Energy Systems (e-Energy), Banff, Canada, Jun. 2026._ <a href="https://arxiv.org/abs/2511.06634" target="_blank">[arXiv]</a>
+
+
 ### 2025
 
 > Conferences/Workshops 
 
 - **GPUnion: Autonomous GPU Sharing on Campus** \\
 Yufang Li, Yuanbo Zhang, Hanlong Liao, Deke Guo and Guoming Tang*\\
-_ACM Workshop on Hot Topics in Networks (HotNets), Nov. 2025._
+_ACM Workshop on Hot Topics in Networks (HotNets), College Park, Maryland, USA, Nov. 2025._ <a href="https://dl.acm.org/doi/pdf/10.1145/3772356.3772403" target="_blank">[PDF]</a>
 - **Prompting Large Language Models for Training-Free Non-Intrusive Load Monitoring** \\
 Junyu Xue, Xudong Wang, Xiaoling He, Shicheng Liu, Yi Wang and Guoming Tang*\\
-_ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), Nov. 2025._
+_ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), Golden, Colorado, USA, Nov. 2025._ <a href="https://dl.acm.org/doi/pdf/10.1145/3736425.3770094" target="_blank">[PDF]</a>
 - **GreenFL: Carbon-efficient Federated Learning over RE Powered Edge Computing Systems** \\
 Hanlong Liao, Yu Zhang, Lailong Luo, Deke Guo and Guoming Tang*\\
-_IEEE International Conference on Distributed Computing Systems (ICDCS), Mar. 2025._
+_IEEE International Conference on Distributed Computing Systems (ICDCS), Scotland, UK, Jul. 2025._ <a href="https://ieeexplore.ieee.org/abstract/document/11183724" target="_blank">[PDF]</a>
 - **SAGkit: A Python SAG Toolkit for Response Time Analysis of Hybrid-Triggered Jobs** \\
 Ruide Cao, Zhuyun Qi, Qinyang He, Chenxi Ling, Yi Wang and Guoming Tang\\
-_IEEE International Conference on Distributed Computing Systems Workshop (ICDCSW), Mar. 2025._
+_IEEE International Conference on Distributed Computing Systems Workshop (ICDCSW), Scotland, UK, Jul. 2025._
 
 > Journals
 

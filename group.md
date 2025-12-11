@@ -13,16 +13,17 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 
 - Xiaohan Zhang (2025 Fall)
 - Jiyang Liu (2025 Fall)
-- Kunming Zhang (2025 Spring–Present)
-- Xin Liu (2025 Spring–Present)
-- Junyu Xue (2024 Fall-Present, Co-supervised)
-- Hanlong Liao (2021 Fall-Present, Co-supervised)
+- Kunming Zhang (2025 Spring)
+- Xin Liu (2025 Spring)
+- Junyu Xue (2024 Fall, Co-supervised)
+- Hanlong Liao (2021 Fall, Co-supervised)
 
 **Master Students**
 
-- Ziyu Liang (Nov. 2025-Present, RBM 2025)
-- Yuwei Li (Jul. 2025-Present, RBM 2025)
-- Xingyuan Xian (Mar. 2025-Present, MSc 2024)
+- Xin Xin (RBM 2025)
+- Ziyu Liang (RBM 2025)
+- Yuwei Li (RBM 2025)
+- Xingyuan Xian (MSc 2024)
 
 **Interns & RAs**
 

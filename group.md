@@ -27,12 +27,13 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 
 **Interns & RAs**
 
-- Jiacheng Cui (Jul. 2025-Present)
-- Hemu Liu (Jun. 2025-Present)
-- Kaiyuan Zhai (Jun. 2025-Present)
-- Pu Zhang (Apr. 2025-Present)
-- Zhehao Zhang (Apr. 2025-Present)
-- Yufang Li (Mar. 2025-Present)
+- Mengqi Yin (Dec. 2025)
+- Jiacheng Cui (Jul. 2025)
+- Hemu Liu (Jun. 2025)
+- Kaiyuan Zhai (Jun. 2025)
+- Pu Zhang (Apr. 2025)
+- Zhehao Zhang (Apr. 2025)
+- Yufang Li (Mar. 2025)
 
 ---
 

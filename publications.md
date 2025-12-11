@@ -24,6 +24,9 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ### 2026
 
+- **Energy Injection Identification Enabled Disaggregation with Deep Multi-Task Learning** \\
+Xudong Wang, Guoming Tang*, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding \\
+_ACM International Conference on Future Energy Systems (e-Energy), Banff, Canada, Jun. 2026._ <a href="https://arxiv.org/abs/2508.14600" target="_blank">[arXiv]</a>
 - **CaberNet: Causal Representation Learning for Cross-Domain HVAC Energy Prediction** \\
 Kaiyuan Zhang, Jiacheng Cui, Zhehao Zhang, Junyu Xue, Yang Deng, Kui Wu, Guoming Tang* \\
 _ACM International Conference on Future Energy Systems (e-Energy), Banff, Canada, Jun. 2026._ <a href="https://arxiv.org/abs/2511.06634" target="_blank">[arXiv]</a>

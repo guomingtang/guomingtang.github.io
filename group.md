@@ -15,8 +15,8 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 - Jiyang Liu (2025 Fall)
 - Kunming Zhang (2025 Spring)
 - Xin Liu (2025 Spring)
+- Yuanbo Zhang (2025 Fall, Co-supervised)
 - Junyu Xue (2024 Fall, Co-supervised)
-- Hanlong Liao (2021 Fall, Co-supervised)
 
 **Master Students**
 
@@ -27,13 +27,12 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 
 **Interns & RAs**
 
-- Mengqi Yin (Dec. 2025)
+- Jingjing Lai (Apr. 2026)
 - Jiacheng Cui (Jul. 2025)
 - Hemu Liu (Jun. 2025)
 - Kaiyuan Zhai (Jun. 2025)
 - Pu Zhang (Apr. 2025)
 - Zhehao Zhang (Apr. 2025)
-- Yufang Li (Mar. 2025)
 
 ---
 

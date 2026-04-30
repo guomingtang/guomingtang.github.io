@@ -11,8 +11,8 @@ _Of all that is expected of a professor, teaching remains the one—perhaps the 
 
 **Instructor**@HKUST-GZ
 
-- *Introduction to Computer Science:* Fall 2024, Fall 2025
-- *Cloud Computing and Big Data Systems:* Spring 2026
+- *UFUG 1601: Introduction to Computer Science:* Fall 2024, Fall 2025
+- *DSAA 4040: Cloud Computing and Big Data Systems:* Spring 2026
 
 **Instructor**@NUDT
 

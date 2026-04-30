@@ -11,6 +11,8 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 
 **PhD Students**
 
+- Jiacheng Cui (2026 Fall)
+- Hemu Liu (2026 Fall)
 - Xiaohan Zhang (2025 Fall)
 - Jiyang Liu (2025 Fall)
 - Kunming Zhang (2025 Spring)
@@ -28,8 +30,6 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 **Interns & RAs**
 
 - Jingjing Lai (Apr. 2026)
-- Jiacheng Cui (Jul. 2025)
-- Hemu Liu (Jun. 2025)
 - Kaiyuan Zhai (Jun. 2025)
 - Pu Zhang (Apr. 2025)
 - Zhehao Zhang (Apr. 2025)
@@ -38,6 +38,7 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 
 **Past Members**
 
+- Mengqi Yin (Intern at SusComLab, Dec. 2025-Mar. 2026, ➡️ GMI Cloud)
 - Shuyang Pan (RA at SusComLab, Jun. 2025-Sept. 2025, ➡️ MSc at PolyU)
 - Qinyang He (RA at SusComLab, Jul. 2025-Sept. 2025, ➡️ Math Teacher at Shimen Middle School)
 - Zicong Ye (Intern at SusComLab, Oct. 2024-Aug. 2025, ➡️ RBM at HKUST-GZ)

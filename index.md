@@ -43,6 +43,7 @@ We are also interested in developing AI-aided solutions for power monitoring, mo
 ### <img src="../img/news.png" height="40px"> News
 
 <ul style="margin-top: 10px; padding-left: 40px;">
+  <li>May. 2026: <strong>Nexus-Lite</strong> got accepted to IWQoS'26. Conguatulations to Yuanbo! 🎉</li>
   <li>Apr. 2026: <strong>FloodGuard</strong> and <strong>ARTSN</strong> got accepted to ICDCS'26. Conguatulations to Jiacheng and Ruide! 🎉🎉</li>
   <li>Apr. 2026: <strong>WattsOnLLM</strong> got accepted to APNet'26. Conguatulations to Xianyi! 🎉</li>
   <li>Dec. 2025: <strong>CaberNet</strong> and <strong>DualNILM</strong> got accepted to e-Energy'26 (Fall cycle). Conguatulations to Kaiyuan and Xudong! 🎉🎉</li>

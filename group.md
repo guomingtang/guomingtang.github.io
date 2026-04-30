@@ -29,6 +29,7 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 
 **Interns & RAs**
 
+- Xudong Wang (May. 2026)
 - Jingjing Lai (Apr. 2026)
 - Kaiyuan Zhai (Jun. 2025)
 - Pu Zhang (Apr. 2025)

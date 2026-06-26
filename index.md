@@ -44,7 +44,7 @@ We are also interested in developing AI-aided solutions for power monitoring, mo
 
 <ul style="margin-top: 10px; padding-left: 40px;">
   <li>Jun. 2026: <strong>KernalScale</strong> got accepted to HotCarbon'26. Conguatulations to Kunming! 🎉</li>
-  <li>Jun. 2026: Our paper on robustness of building energy forecasting was published by <strong>Energy and AI</strong> (IF: 9.7). Conguatulations to Zhehao! 🎉</li>
+  <li>Jun. 2026: Our paper on building energy forecasting was published by <strong>Energy and AI</strong> (IF: 9.7). Conguatulations to Zhehao! 🎉</li>
   <li>May. 2026: <strong>Nexus-Lite</strong> got accepted to IWQoS'26. Conguatulations to Yuanbo! 🎉</li>
   <li>Apr. 2026: <strong>FloodGuard</strong> and <strong>ARTSN</strong> got accepted to ICDCS'26. Conguatulations to Jiacheng and Ruide! 🎉🎉</li>
   <li>Apr. 2026: <strong>WattsOnLLM</strong> got accepted to APNet'26. Conguatulations to Xianyi! 🎉</li>

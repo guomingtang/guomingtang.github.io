@@ -24,6 +24,24 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 ### 2026
 
+- **On the robustness of short-term building energy forecasting undercross-climate transfer** \\
+Ji Bian, Zhehao Zhang, Chunyang Zuo, Chunxiao Dong, Hui Liu, Kaiyuan Zhang, Guoming Tang* \\
+_Energy and AI (IF: 9.7), Vol. 25, Sept. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/SXrFbJqRLofkHCxiYIrcXdx0nTf" target="_blank">[PDF]</a>
+- **Solve the Sudoku: Few-Shot Energy-Latency Map Profiling for Sustainable LLM Serving** \\
+Kunming Zhang, Xianyi Yuan, Deke Guo, Guoming Tang* \\
+_ACM Workshop on Sustainable Computer Systems (HotCarbon), Seattle, WA, USA, Jul. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/SZHkbU8Mfo8H2pxk0MUceNREnNh" target="_blank">[PDF]</a>
+- **Fine-Grained Energy Accounting in Production LLM Serving** \\
+Xianyi Yuan, Hanlong Liao, Kunming Zhang, Deke Guo*, Guoming Tang* \\
+_ACM Asia-Pacific Workshop on Networking (APNet), Singapore, Aug. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/FquybWKRHoJbWzxJKXRcuhijnTX" target="_blank">[PDF]</a>
+- **DelAct: A Replayable Boundary Runtime for Auditable and Governed LLM Agent Workflows** \\
+Yuanbo Zhang, Hanlong Liao, Deke Guo*, Guoming Tang* \\
+_IEEE/ACM International Symposium on Quality of Service (IWQoS), Short Paper, Istanbul, Türkiye, Jun. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/G0RqbwzgFoeXdvxpSB1cWvL7nnb" target="_blank">[PDF]</a>
+- **ARTSN: Exact and Adaptive Self-triggered Traffic Scheduling for ARTS Networks** \\
+Ruide Cao, Shuangping Zhan, Jiashuo Lin, Yan Liu, Chenxi Ling, Yi Wang*, Guoming Tang* \\
+_IEEE International Conference on Distributed Computing Systems (ICDCS), Seoul, South Korea, Jun. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/Z3ObbUXjIoyLXlxfRVzcOC2mnTe" target="_blank">[PDF]</a>
+- **FloodGuard: A Prediction-Control Closed Loop for Mitigating Cold-Start Floods in Cloud Services** \\
+Jiacheng Cui, Yuwei Li, Junyu Xue, Guoming Tang* \\
+_IEEE International Conference on Distributed Computing Systems (ICDCS), Seoul, South Korea, Jun. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/I4H4bulS9oXYrBxq1K7cSilDnIe" target="_blank">[PDF]</a>
 - **Energy Injection Identification Enabled Disaggregation with Deep Multi-Task Learning** \\
 Xudong Wang, Guoming Tang*, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding \\
 _ACM International Conference on Future Energy Systems (e-Energy), Banff, Canada, Jun. 2026._ <a href="https://arxiv.org/abs/2508.14600" target="_blank">[arXiv]</a>
@@ -40,10 +58,10 @@ _ACM International Conference on Future Energy Systems (e-Energy), Banff, Canada
 Yufang Li, Yuanbo Zhang, Hanlong Liao, Deke Guo and Guoming Tang*\\
 _ACM Workshop on Hot Topics in Networks (HotNets), College Park, Maryland, USA, Nov. 2025._ <a href="https://dl.acm.org/doi/pdf/10.1145/3772356.3772403" target="_blank">[PDF]</a>
 - **Prompting Large Language Models for Training-Free Non-Intrusive Load Monitoring** \\
-Junyu Xue, Xudong Wang, Xiaoling He, Shicheng Liu, Yi Wang and Guoming Tang*\\
+Junyu Xue, Xudong Wang, Xiaoling He, Shicheng Liu, Yi Wang* and Guoming Tang*\\
 _ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), Golden, Colorado, USA, Nov. 2025._ <a href="https://dl.acm.org/doi/pdf/10.1145/3736425.3770094" target="_blank">[PDF]</a>
 - **GreenFL: Carbon-efficient Federated Learning over RE Powered Edge Computing Systems** \\
-Hanlong Liao, Yu Zhang, Lailong Luo, Deke Guo and Guoming Tang*\\
+Hanlong Liao, Yu Zhang, Lailong Luo, Deke Guo* and Guoming Tang*\\
 _IEEE International Conference on Distributed Computing Systems (ICDCS), Scotland, UK, Jul. 2025._ <a href="https://ieeexplore.ieee.org/abstract/document/11183724" target="_blank">[PDF]</a>
 - **SAGkit: A Python SAG Toolkit for Response Time Analysis of Hybrid-Triggered Jobs** \\
 Ruide Cao, Zhuyun Qi, Qinyang He, Chenxi Ling, Yi Wang and Guoming Tang\\

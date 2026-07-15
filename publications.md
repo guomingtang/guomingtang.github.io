@@ -31,13 +31,13 @@ _Energy and AI (IF: 9.7), Vol. 25, Sept. 2026._ <a href="https://vcnr8v0xpqhv.fe
 Kunming Zhang, Xianyi Yuan, Deke Guo, Guoming Tang* \\
 _ACM Workshop on Sustainable Computer Systems (HotCarbon), Seattle, WA, USA, Jul. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/SZHkbU8Mfo8H2pxk0MUceNREnNh" target="_blank">[PDF]</a>
 - **Fine-Grained Energy Accounting in Production LLM Serving** \\
-Xianyi Yuan, Hanlong Liao, Kunming Zhang, Deke Guo*, Guoming Tang* \\
+Xianyi Yuan, Hanlong Liao, Kunming Zhang, Deke Guo\*, Guoming Tang* \\
 _ACM Asia-Pacific Workshop on Networking (APNet), Singapore, Aug. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/FquybWKRHoJbWzxJKXRcuhijnTX" target="_blank">[PDF]</a>
 - **DelAct: A Replayable Boundary Runtime for Auditable and Governed LLM Agent Workflows** \\
-Yuanbo Zhang, Hanlong Liao, Deke Guo*, Guoming Tang* \\
+Yuanbo Zhang, Hanlong Liao, Deke Guo\*, Guoming Tang* \\
 _IEEE/ACM International Symposium on Quality of Service (IWQoS), Short Paper, Istanbul, Türkiye, Jun. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/G0RqbwzgFoeXdvxpSB1cWvL7nnb" target="_blank">[PDF]</a>
 - **ARTSN: Exact and Adaptive Self-triggered Traffic Scheduling for ARTS Networks** \\
-Ruide Cao, Shuangping Zhan, Jiashuo Lin, Yan Liu, Chenxi Ling, Yi Wang*, Guoming Tang* \\
+Ruide Cao, Shuangping Zhan, Jiashuo Lin, Yan Liu, Chenxi Ling, Yi Wang\*, Guoming Tang* \\
 _IEEE International Conference on Distributed Computing Systems (ICDCS), Seoul, South Korea, Jun. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/Z3ObbUXjIoyLXlxfRVzcOC2mnTe" target="_blank">[PDF]</a>
 - **FloodGuard: A Prediction-Control Closed Loop for Mitigating Cold-Start Floods in Cloud Services** \\
 Jiacheng Cui, Yuwei Li, Junyu Xue, Guoming Tang* \\

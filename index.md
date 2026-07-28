@@ -43,6 +43,7 @@ We are also interested in developing AI-aided solutions for power monitoring, mo
 ### <img src="../img/news.png" height="40px"> News
 
 <ul style="margin-top: 10px; padding-left: 40px;">
+  <li>Jul. 2026: <strong>BandPilot</strong> got accepted to IEEE TPDS. Conguatulations to Kunming! 🎉</li>
   <li>Jun. 2026: <strong>KernalScale</strong> got accepted to HotCarbon'26. Conguatulations to Kunming! 🎉</li>
   <li>Jun. 2026: Our paper on building energy forecasting was published by <strong>Energy and AI</strong> (IF: 9.7). Conguatulations to Zhehao! 🎉</li>
   <li>May. 2026: <strong>Nexus-Lite</strong> got accepted to IWQoS'26. Conguatulations to Yuanbo! 🎉</li>

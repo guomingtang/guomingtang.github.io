@@ -26,7 +26,7 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 - **BandPilot: Towards Performance- and Contention-Aware GPU Dispatching in AI Clusters** \\
 Kunming Zhang, Hanlong Liao, Junyu Xue, Deke Guo, Guoming Tang* \\
-_Accepted to IEEE Transactions on Parallel and Distributed Systems (TPDS). Jul. 2026._
+_Accepted to IEEE Transactions on Parallel and Distributed Systems (TPDS). Jul. 2026._ <a href="https://arxiv.org/abs/2506.15595" target="_blank">[arXiv]</a>
 - **On the robustness of short-term building energy forecasting undercross-climate transfer** \\
 Ji Bian, Zhehao Zhang, Chunyang Zuo, Chunxiao Dong, Hui Liu, Kaiyuan Zhang, Guoming Tang* \\
 _Energy and AI (IF: 9.7), Vol. 25, Sept. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/SXrFbJqRLofkHCxiYIrcXdx0nTf" target="_blank">[PDF]</a>

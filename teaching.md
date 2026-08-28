@@ -11,7 +11,8 @@ _Of all that is expected of a professor, teaching remains the one—perhaps the 
 
 **Instructor @ HKUST(GZ)**
 
-- *UFUG 1601: Introduction to Computer Science:* Fall 2024, Fall 2025, Fall 2026
+- *UFUG 1601 (Experimental Class): Introduction to Computer Science:* Fall 2026
+- *UFUG 1601: Introduction to Computer Science:* Fall 2024, Fall 2025
 - *DSAA 4040: Cloud Computing and Big Data Systems:* Spring 2026
 - *DSAA 6000T: Cloud & AI Infrastructure Systems:* Fall 2026
 
@@ -21,7 +22,7 @@ _Of all that is expected of a professor, teaching remains the one—perhaps the 
 - *Machine Learning:* Fall 2018-2019
 - *Computer Networks:* Fall 2020-2022
 
-**Course/Lab TA @ UVic**
+**Tutorial/Lab TA @ UVic**
 
 - *Operating Systems:* Fall 2015, Spring 2016, Summer 2016
 - *Database Systems:* Fall 2013, Summer 2014

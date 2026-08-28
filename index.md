@@ -20,7 +20,7 @@ Current research interests include (**Sustainable AI** track):
 
 We are also interested in developing AI-aided solutions for power monitoring, modeling and control in data centers and smart homes/buildings. Typical research problems that we are tackling include (**AI for Sustainability** track):
 
-- Software-defined power supplying for low/zero-carbon data centers;
+- Software-defined power management for low/zero-carbon data centers;
 - Non-intrusive load monitoring (NILM) for smart homes;
 - Integrating LLM capability into building energy systems (BESs).
 
@@ -43,15 +43,15 @@ We are also interested in developing AI-aided solutions for power monitoring, mo
 ### <img src="../img/news.png" height="40px"> News
 
 <ul style="margin-top: 10px; padding-left: 40px;">
-  <li>Jul. 2026: <strong>BandPilot</strong> got accepted to IEEE TPDS. Conguatulations to Kunming! 🎉</li>
-  <li>Jun. 2026: <strong>KernalScale</strong> got accepted to HotCarbon'26. Conguatulations to Kunming! 🎉</li>
-  <li>Jun. 2026: Our paper on building energy forecasting was published by <strong>Energy and AI</strong> (IF: 9.7). Conguatulations to Zhehao! 🎉</li>
-  <li>May. 2026: <strong>Nexus-Lite</strong> got accepted to IWQoS'26. Conguatulations to Yuanbo! 🎉</li>
-  <li>Apr. 2026: <strong>FloodGuard</strong> and <strong>ARTSN</strong> got accepted to ICDCS'26. Conguatulations to Jiacheng and Ruide! 🎉🎉</li>
-  <li>Apr. 2026: <strong>WattsOnLLM</strong> got accepted to APNet'26. Conguatulations to Xianyi! 🎉</li>
-  <li>Dec. 2025: <strong>CaberNet</strong> and <strong>DualNILM</strong> got accepted to e-Energy'26 (Fall cycle). Conguatulations to Kaiyuan and Xudong! 🎉🎉</li>
-  <li>Oct. 2025: <strong>GPUnion</strong> got accepted to HotNet'25 (<a href="https://arxiv.org/abs/2507.18928" target="_blank">arXiv version</a>). Conguatulations to Yufang! 🎉</li>
-  <li>Sept. 2025: <strong>LLM4NILM</strong> got accepted to BuildSys'25 (<a href="https://arxiv.org/abs/2505.06330" target="_blank">arXiv version</a>). Conguatulations to Junyu! 🎉</li>
+  <li>Jul. 2026: <strong>BandPilot</strong> got accepted to IEEE TPDS. Congratulations to Kunming! 🎉</li>
+  <li>Jun. 2026: <strong>KernalScale</strong> got accepted to HotCarbon'26. Congratulations to Kunming! 🎉</li>
+  <li>Jun. 2026: Our paper on building energy forecasting was published by <strong>Energy and AI</strong> (IF: 9.7). Congratulations to Zhehao! 🎉</li>
+  <li>May. 2026: <strong>Nexus-Lite</strong> got accepted to IWQoS'26. Congratulations to Yuanbo! 🎉</li>
+  <li>Apr. 2026: <strong>FloodGuard</strong> and <strong>ARTSN</strong> got accepted to ICDCS'26. Congratulations to Jiacheng and Ruide! 🎉🎉</li>
+  <li>Apr. 2026: <strong>WattsOnLLM</strong> got accepted to APNet'26. Congratulations to Xianyi! 🎉</li>
+  <li>Dec. 2025: <strong>CaberNet</strong> and <strong>DualNILM</strong> got accepted to e-Energy'26 (Fall cycle). Congratulations to Kaiyuan and Xudong! 🎉🎉</li>
+  <li>Oct. 2025: <strong>GPUnion</strong> got accepted to HotNets'25 (<a href="https://arxiv.org/abs/2507.18928" target="_blank">arXiv version</a>). Congratulations to Yufang! 🎉</li>
+  <li>Sept. 2025: <strong>LLM4NILM</strong> got accepted to BuildSys'25 (<a href="https://arxiv.org/abs/2505.06330" target="_blank">arXiv version</a>). Congratulations to Junyu! 🎉</li>
   <li>May. 2025: Two papers got accepted to IEEE/ACM TON and IEEE TITS, respectively.</li>
   <li>Apr. 2025: <strong>ZSMerge</strong> (zero-shot KV Cache Compression for LLMs) is now available on <a href="https://arxiv.org/abs/2503.10714" target="_blank">arXiv</a> and open-sourced on <a href="https://github.com/SusCom-Lab/ZSMerge" target="_blank">GitHub</a>.</li>
   <li>Mar. 2025: <strong>GreenFL</strong> got accepted to ICDCS'25.</li>
@@ -62,7 +62,7 @@ We are also interested in developing AI-aided solutions for power monitoring, mo
   <li>Jun. 2024: Our work on <a href="https://dl.acm.org/doi/pdf/10.1145/3673038.3673080" target="_blank">low-carbon edge computing system</a> got accepted to ICPP'24.</li>
   <li>Mar. 2024: One paper got accepted to IEEE TPDS.</li>
   <li>Jan. 2024: Two papers got accepted to IEEE Network and TMC, respectively.</li>
-  <li>Dec. 2023: One Paper got accepted to IEEE TPDS.</li>
+  <li>Dec. 2023: One paper got accepted to IEEE TPDS.</li>
   <li>Nov. 2023: Two papers got accepted to IEEE TGCN and IoT-J, respectively.</li>
   <li>Aug. 2023: <a href="https://dl.acm.org/doi/epdf/10.1145/3617589" target="_blank">One survey paper</a> got accepted to ACM Computing Surveys.</li>
   <li>Aug. 2023: Three papers got accepted to IEEE IoT-J.</li>

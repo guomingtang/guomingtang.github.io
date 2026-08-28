@@ -5,7 +5,7 @@ title: About - Guoming Tang
 
 ### <img src="../img/bio.png" height="50px"> Bio
 
-Guoming Tang is an Assistant Professor in the Data Science and Analytics (DSA) Thrust at the Information Hub, The Hong Kong University of Science and Technology (Guangzhou). He received his PhD in Computer Science from University of Victoria, Canada, and both his Bachelor’s and Master’s degrees from National University of Defense Technology, China. His research focuses on sustainable computing, cloud/edge computing, and applied AI/ML. He was an invited participant of the Heidelberg Laureate Forum (one of 200 outstanding young researchers worldwide), and received the CCF-Tencent Distinguished Innovation Research Award in 2020, the Outstanding Paper Award of UIC 2022 and the Best Paper Award of SustainCom 2024.
+Guoming Tang is an Assistant Professor in the Data Science and Analytics (DSA) Thrust at the Information Hub, The Hong Kong University of Science and Technology (Guangzhou). He received his PhD in Computer Science from the University of Victoria, Canada, and both his Bachelor’s and Master’s degrees from the National University of Defense Technology, China. His research focuses on sustainable computing, cloud/edge computing, and applied AI/ML. He was an invited participant of the Heidelberg Laureate Forum (one of 200 outstanding young researchers worldwide), and received the CCF-Tencent Distinguished Innovation Research Award in 2020, the Outstanding Paper Award of UIC 2022 and the Best Paper Award of SustainCom 2024.
 
 <a href="/img/profile-photo-gmtang-2024.png" target="_blank">Bio photo</a>
 
@@ -25,6 +25,6 @@ Guoming Tang is an Assistant Professor in the Data Science and Analytics (DSA) T
 ### <img src="../img/contact.png" height="42px"> Contact
 
 
-**Email:** guomingtang[at]hkust-gz[dot]edu[dot].cn\\
+**Email:** guomingtang[at]hkust-gz[dot]edu[dot]cn\\
 **Tel.:** (020) 8833 3898 (office) \\
 **Office:** W3-306, Central Building, HKUST(GZ)

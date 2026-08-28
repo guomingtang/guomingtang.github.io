@@ -6,7 +6,7 @@ meta-description: Courses taught by Guoming Tang at HKUST(GZ), including introdu
 
 ## <img src="../img/teaching.png" height="50px" alt="" aria-hidden="true"> Teaching
 
-I aim to connect foundational concepts with real systems and emerging technologies. My courses emphasize active learning, hands-on problem solving, systems thinking, and the responsible use of AI.
+_Of all that is expected of a professor, teaching remains the one—perhaps the only one—where value is certain._
 
 ---
 

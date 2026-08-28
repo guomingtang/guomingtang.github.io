@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://guomingtang.github.io"
+url: "https://guomingtang.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,13 +17,13 @@ baseurl: ""
 title: Guoming Tang
 
 # Short description of your site
-description: Guoming Tang's Homepage
+description: Guoming Tang — Assistant Professor at HKUST(GZ), leading the Sustainable Computing (SusCom) Lab and researching sustainable AI, AI infrastructure, cloud and edge systems, and AI for energy.
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About: "about"
-  Publication: "publications"
+  Publications: "publications"
   Group: "group"
   Teaching: "teaching"
   Service: "services"
@@ -61,22 +61,22 @@ navbar-links:
 author:
   name: Guoming Tang
   # email: "tangguo1999@gmail.com"
-  # github: guomingtang
+  github: guomingtang
   # linkedin: guomingtang
-  # googlescholar: 8key_ToAAAAJ
+  googlescholar: 8key_ToAAAAJ
   # cv: files/CV.pdf
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
-  email: true
-  twitter: true
+  email: false
+  twitter: false
   googleplus: false
   googlescholar: true
   github: true
   reddit: false
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
@@ -87,7 +87,7 @@ footer-links-active:
   steam: false
   twitch: false
   yelp: false
-  cv: true
+  cv: false
 
 # Select which share links to show in posts
 share-links-active:
@@ -216,8 +216,9 @@ exclude:
 #           label: "Publish"
 #           help: "Check to publish post, uncheck to hide."
 
-# plugins:
-#   - jekyll-paginate
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

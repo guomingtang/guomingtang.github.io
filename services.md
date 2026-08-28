@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Service - Guoming Tang
+meta-description: Professional service by Guoming Tang, including organizing committees, technical program committees, and peer review.
 ---
 
-## <img src="../img/service.png" height="50px"> Professional Services
+## <img src="../img/service.png" height="50px" alt="" aria-hidden="true"> Professional Services
 
 **Organizing Committee Members**
 

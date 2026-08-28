@@ -3,6 +3,9 @@ layout: page
 title: Guoming Tang
 subtitle: Assistant Professor, DSA Thrust, Information Hub
 subtitle2: The Hong Kong University of Science and Technology (Guangzhou)
+meta-description: Guoming Tang is an Assistant Professor at HKUST(GZ) leading the Sustainable Computing (SusCom) Lab, with research in sustainable AI, AI infrastructure, cloud and edge systems, and AI for energy.
+img-alt: Portrait of Guoming Tang
+share-img: /img/profile-photo-gmtang-2024.png
 img: /img/profile-photo-gmtang-2024.png
 social_media: true
 ---
@@ -40,7 +43,7 @@ We are also interested in developing AI-aided solutions for power monitoring, mo
 </div>
 
 
-### <img src="../img/news.png" height="40px"> News
+### <img src="../img/news.png" height="40px" alt="" aria-hidden="true"> News
 
 <ul style="margin-top: 10px; padding-left: 40px;">
   <li>Jul. 2026: <strong>BandPilot</strong> got accepted to IEEE TPDS. Congratulations to Kunming! 🎉</li>

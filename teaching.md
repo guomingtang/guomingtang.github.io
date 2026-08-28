@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Teaching - Guoming Tang
+meta-description: Courses taught by Guoming Tang at HKUST(GZ), including computer science, cloud computing, and cloud and AI infrastructure systems.
 ---
 
-## <img src="../img/teaching.png" height="50px">  Teaching
+## <img src="../img/teaching.png" height="50px" alt="" aria-hidden="true">  Teaching
 
 _Of all that is expected of a professor, teaching remains the one—perhaps the only one—where value is certain._
 

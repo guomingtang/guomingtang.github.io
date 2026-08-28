@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Publication - Guoming Tang
+title: Publications - Guoming Tang
+meta-description: Publications by Guoming Tang in sustainable computing, AI infrastructure, cloud and edge systems, LLM serving, energy systems, and networking.
 ---
 
-## <img src="../img/publication.png" height="50px"> Publications
+## <img src="../img/publication.png" height="50px" alt="" aria-hidden="true"> Publications
 
 <a href="https://scholar.google.com/citations?user=8key_ToAAAAJ&hl=en" target="_blank">Google Scholar</a> &#124; <a href="https://dblp.org/pid/15/9707.html" target="_blank">DBLP</a>  
 _# denotes co-first author and * denotes corresponding author._

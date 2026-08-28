@@ -51,7 +51,7 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="{{ include.type }}-heading">
             {% if page.img %}
-            <p><img class="img-circle img-200" height="225px" width="225px" src="{{page.img}}"/></p>
+            <p><img class="img-circle img-200" height="225px" width="225px" src="{{ page.img }}" alt="{{ page.img-alt | default: page.title | escape }}" decoding="async"/></p>
             {% endif %}
           <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
           

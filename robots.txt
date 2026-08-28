@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guomingtang.github.io/sitemap.xml

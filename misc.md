@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Misc - Guoming Tang
+meta-description: Research, writing, speaking, teaching, and academic AI-use resources recommended by Guoming Tang.
 ---
 
-### <img src="../img/misc.png" height="50px"> Useful Knowledge
+### <img src="../img/misc.png" height="50px" alt="" aria-hidden="true"> Useful Knowledge
 
 - [How to read a paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) by S. Keshav.
 - [How to write a (system) paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/10/ogres2.pdf) by S. Keshav.

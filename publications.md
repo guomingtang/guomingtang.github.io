@@ -49,7 +49,7 @@ _IEEE International Conference on Distributed Computing Systems (ICDCS), Seoul, 
 Xudong Wang, Guoming Tang*, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding \\
 _ACM International Conference on Future Energy Systems (e-Energy), Banff, Canada, Jun. 2026._ <a href="https://arxiv.org/abs/2508.14600" target="_blank">[arXiv]</a>
 - **CaberNet: Causal Representation Learning for Cross-Domain HVAC Energy Prediction** \\
-Kaiyuan Zhang, Jiacheng Cui, Zhehao Zhang, Junyu Xue, Yang Deng, Kui Wu, Guoming Tang* \\
+Kaiyuan Zhai, Jiacheng Cui, Zhehao Zhang, Junyu Xue, Yang Deng, Kui Wu, Guoming Tang* \\
 _ACM International Conference on Future Energy Systems (e-Energy), Banff, Canada, Jun. 2026._ <a href="https://arxiv.org/abs/2511.06634" target="_blank">[arXiv]</a>
 
 

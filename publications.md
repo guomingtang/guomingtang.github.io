@@ -52,7 +52,7 @@ _ACM International Conference on Future Energy Systems (e-Energy), Banff, Canada
 > Journals
 
 - **BESS-aided Power Demand Reshaping for Distributed Green Edge Clouds** \\
-Dongyu Zheng, Lu Zhao, Lei Liu*, Guoming Tang*, Geyong Min, Deke Guo \\
+Dongyu Zheng, Lu Zhao, Lei Liu\*, Guoming Tang\*, Geyong Min, Deke Guo \\
 _Accepted to IEEE Transactions on Mobile Computing (TMC). Sept. 2026._
 - **BandPilot: Towards Performance- and Contention-Aware GPU Dispatching in AI Clusters** \\
 Kunming Zhang, Hanlong Liao, Junyu Xue, Deke Guo, Guoming Tang* \\

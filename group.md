@@ -12,8 +12,8 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 
 **PhD Students**
 
+- Hemu Liu (2027 Spring)
 - Jiacheng Cui (2026 Fall)
-- Hemu Liu (2026 Fall)
 - Xiaohan Zhang (2025 Fall)
 - Jiyang Liu (2025 Fall)
 - Kunming Zhang (2025 Spring)
@@ -26,20 +26,24 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 - Xin Xin (RBM 2025)
 - Ziyu Liang (RBM 2025)
 - Yuwei Li (RBM 2025)
-- Xingyuan Xian (MSc 2024)
 
 **Interns & RAs**
 
-- Xudong Wang (May. 2026)
+- Zhiyu Ding (Sept. 2026)
+- Benxiang Xiao (Sept. 2026)
+- Yuanxin Chen (Aug. 2026)
+- Xianyi Yuan (Jul. 2026)
+- Gengjie Huang (Jun. 2026)
+- Xudong Wang (Jun. 2026)
 - Jingjing Lai (Apr. 2026)
-- Kaiyuan Zhai (Jun. 2025)
 - Pu Zhang (Apr. 2025)
-- Zhehao Zhang (Apr. 2025)
 
 ---
 
 **Past Members**
 
+- Kaiyuan Zhai (Intern at SusComLab, Jun. 2025-Jun. 2026, ➡️ PhD at UAlberta)
+- Zhehao Zhang (RA at SusComLab, Apr. 2025-Jun. 2026, ➡️ MSc at NTU)
 - Mengqi Yin (Intern at SusComLab, Dec. 2025-Mar. 2026, ➡️ GMI Cloud)
 - Shuyang Pan (RA at SusComLab, Jun. 2025-Sept. 2025, ➡️ MSc at PolyU)
 - Qinyang He (RA at SusComLab, Jul. 2025-Sept. 2025, ➡️ Math Teacher at Shimen Middle School)

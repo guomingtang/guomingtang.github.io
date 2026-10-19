@@ -48,7 +48,7 @@ We are also interested in developing AI-aided solutions for power monitoring, mo
 <ul style="margin-top: 10px; padding-left: 40px;">
   <li>Oct. 2026: <strong>WattOS</strong> got accepted to SoCC'26. Congratulations to Pu! 🎉</li>
   <li>Oct. 2026: <strong>Meta-FAN</strong> got accepted to Energy (IF: 10.1). Congratulations to Zhehao! 🎉</li>
-  <li>Oct. 2026: Our extened work on <strong>LLM4NILM</strong> got accepted to ACM TOSN. Congratulations to Junyu! 🎉</li>
+  <li>Oct. 2026: Our extended work on <strong>LLM4NILM</strong> got accepted to ACM TOSN. Congratulations to Junyu! 🎉</li>
   <li>Sept. 2026: Our work on <strong>power demand reshaping of edge DCs</strong> got accepted to IEEE TMC. Congratulations to Dongyu! 🎉</li>
   <li>Jul. 2026: <strong>BandPilot</strong> got accepted to IEEE TPDS. Congratulations to Kunming! 🎉</li>
   <li>Jun. 2026: <strong>KernalScale</strong> got accepted to HotCarbon'26. Congratulations to Kunming! 🎉</li>

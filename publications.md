@@ -27,6 +27,9 @@ _China Machine Press, 2021. ISBN: 978-7-111-69379-6 (chapter of the China Comput
 
 > Conferences/Workshops 
 
+- **WattOS: Toward a Power Control Plane for AI Data Centers** \\
+Pu Zhang, Guoming Tang* \\
+_ACM Symposium on Cloud Computing (SoCC), Singapore, Nov. 2026._
 - **Solve the Sudoku: Few-Shot Energy-Latency Map Profiling for Sustainable LLM Serving** \\
 Kunming Zhang, Xianyi Yuan, Deke Guo, Guoming Tang* \\
 _ACM Workshop on Sustainable Computer Systems (HotCarbon), Seattle, WA, USA, Jul. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/SZHkbU8Mfo8H2pxk0MUceNREnNh" target="_blank">[PDF]</a>
@@ -51,6 +54,12 @@ _ACM International Conference on Future Energy Systems (e-Energy), Banff, Canada
 
 > Journals
 
+- **Meta-FAN: Building Energy Forecasting via Few-Shot Feature-Wise Adaptation** \\
+Zhehao Zhang, Jiacheng Cui, Gengjie Huang, Ji Bian, Chunyang Zuo, Guoming Tang* \\
+_Accepted to Energy (IF: 10.1). Sept. 2026._
+- **Capability and Explanation Boundaries of Large Language Models for Non-Intrusive Load Monitoring** \\
+Junyu Xue, Xudong Wang, Ziyu Liang, Shicheng Liu, Yi Wang\*, Guoming Tang\* \\
+_Accepted to ACM Transactions on Sensor Networks (TOSN). Oct. 2026._
 - **BESS-aided Power Demand Reshaping for Distributed Green Edge Clouds** \\
 Dongyu Zheng, Lu Zhao, Lei Liu\*, Guoming Tang\*, Geyong Min, Deke Guo \\
 _Accepted to IEEE Transactions on Mobile Computing (TMC). Sept. 2026._

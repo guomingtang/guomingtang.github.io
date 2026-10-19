@@ -49,7 +49,6 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 - Qinyang He (RA at SusComLab, Jul. 2025-Sept. 2025, ➡️ Math Teacher at Shimen Middle School)
 - Zicong Ye (Intern at SusComLab, Oct. 2024-Aug. 2025, ➡️ RBM at HKUST-GZ)
 - Hongzhen Huang (Intern at SusComLab, Dec. 2024-Jun. 2025, ➡️ RBM at HKUST-GZ)
-- Yike Liu (MSc at SusComLab, Oct. 2024-Aug. 2025, ➡️ HONOR)
 - Xiaoling He (RBM at SusComLab, Jan. 2025-Jun. 2025, ➡️ PhD at HKUST-GZ)
 - Dongyu Zheng (Co-advised PhD at SusComLab, Jul. 2024-May. 2025, ➡️ Assistant Professor at CAS)
 - Ruide Cao (Intern at SusComLab, Jul. 2024-Feb. 2025, ➡️ PhD at UCR)

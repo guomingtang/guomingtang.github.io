@@ -56,7 +56,7 @@ _ACM International Conference on Future Energy Systems (e-Energy), Banff, Canada
 
 - **Meta-FAN: Building Energy Forecasting via Few-Shot Feature-Wise Adaptation** \\
 Zhehao Zhang, Jiacheng Cui, Gengjie Huang, Ji Bian, Chunyang Zuo, Guoming Tang* \\
-_Accepted to Energy (IF: 10.1). Sept. 2026._
+_Accepted to Energy (IF: 10.1). Oct. 2026._
 - **Capability and Explanation Boundaries of Large Language Models for Non-Intrusive Load Monitoring** \\
 Junyu Xue, Xudong Wang, Ziyu Liang, Shicheng Liu, Yi Wang\*, Guoming Tang\* \\
 _Accepted to ACM Transactions on Sensor Networks (TOSN). Oct. 2026._
@@ -66,8 +66,8 @@ _Accepted to IEEE Transactions on Mobile Computing (TMC). Sept. 2026._
 - **BandPilot: Towards Performance- and Contention-Aware GPU Dispatching in AI Clusters** \\
 Kunming Zhang, Hanlong Liao, Junyu Xue, Deke Guo, Guoming Tang* \\
 _IEEE Transactions on Parallel and Distributed Systems (TPDS). Vol. 37, No. 19, pp. 2165-2178, Oct. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/IWtIbYzIQoLUuDxynNTcmZWbnHd" target="_blank">[PDF]</a>
-- **On the robustness of short-term building energy forecasting undercross-climate transfer** \\
-Ji Bian, Zhehao Zhang, Chunyang Zuo, Chunxiao Dong, Hui Liu, Kaiyuan Zhang, Guoming Tang* \\
+- **On the robustness of short-term building energy forecasting under cross-climate transfer** \\
+Ji Bian, Zhehao Zhang, Chunyang Zuo, Chunxiao Dong, Hui Liu, Kaiyuan Zhai, Guoming Tang* \\
 _Energy and AI (IF: 9.7), Vol. 25, Sept. 2026._ <a href="https://vcnr8v0xpqhv.feishu.cn/file/SXrFbJqRLofkHCxiYIrcXdx0nTf" target="_blank">[PDF]</a>
 
 

@@ -4,7 +4,7 @@ title: Group - Guoming Tang
 meta-description: Members of the Sustainable Computing (SusCom) Lab at HKUST(GZ), led by Guoming Tang.
 ---
 
-## <img src="../img/suscomlab-logo.png" height="55px" alt="" aria-hidden="true">
+## <img src="../img/suscomlab-logo.png" height="85px" alt="" aria-hidden="true">
 
 _I’m fortunate to work with a brilliant and passionate team driving real-world impact in data science and AI._
 

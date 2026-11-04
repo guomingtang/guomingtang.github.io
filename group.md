@@ -4,7 +4,7 @@ title: Group - Guoming Tang
 meta-description: Members of the Sustainable Computing (SusCom) Lab at HKUST(GZ), led by Guoming Tang.
 ---
 
-## <img src="../img/suscomlab.png" height="55px" alt="" aria-hidden="true"> SusCom Lab
+## <img src="../img/suscomlab-logo.png" height="55px" alt="" aria-hidden="true">
 
 _I’m fortunate to work with a brilliant and passionate team driving real-world impact in data science and AI._
 
@@ -33,7 +33,6 @@ _I’m fortunate to work with a brilliant and passionate team driving real-world
 - Benxiang Xiao (Sept. 2026)
 - Yuanxin Chen (Aug. 2026)
 - Xianyi Yuan (Jul. 2026)
-- Gengjie Huang (Jun. 2026)
 - Xudong Wang (Jun. 2026)
 - Jingjing Lai (Apr. 2026)
 - Pu Zhang (Apr. 2025)
